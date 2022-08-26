@@ -7,7 +7,7 @@ layout: default
     {%- if page.show_title -%}
 	<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     {%- endif -%}
-	<!--
+	
 	<p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -20,6 +20,7 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
+	  <!--
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
