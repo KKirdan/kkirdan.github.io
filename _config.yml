@@ -1,2 +1,7 @@
 theme: minima
 author: К. Кирдан
+collections:
+  articles:
+    output: true
+  ideas:
+    output: true
