@@ -1,7 +1,18 @@
-theme: minima
-author: К. Кирдан
+# МОДИФИЦИРОВАНО
+
+# Setup
+title:               Кирдан
+url:                 kkirdan.github.io
+baseurl:             ''
+permalink:           /blog/:title:output_ext
+
+# About/contact
+email:               latif.rosh@gmail.com
+
 collections:
-  articles:
-    output: true
   ideas:
     output: true
+    permalink: /blog/:title:output_ext
+
+# Custom vars
+google_analytics: G-BQPMQ2SPK5

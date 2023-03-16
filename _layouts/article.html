@@ -1,0 +1,34 @@
+---
+layout: blog
+---
+
+<!--- НОВОЕ --->
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+<div class="post">
+  <span class="post-date">
+    {% if page.updated %}
+      Впервые опубликовано {{ page.published | date: "%Y.%m.%d" }}, последнее обновление {{ page.updated | date: "%Y.%m.%d" }}
+    {% else %}
+      Впервые опубликовано {{ page.published | date: "%Y.%m.%d" }}
+    {% endif %}
+  </span>
+  {% if page.author %}
+    <span class="post-author">Автор: {{ page.author }}</span>
+  {% endif %}
+  {{ content }}
+</div>
+
+{% if page.source %}
+  <span class="post-source">Источник: {{ page.source }}</span>
+{% endif %}
+{% if page.original %}
+  <span class="post-source">Оригинал: {{ page.original }}</span>
+{% endif %}
+{% if page.translated_by %}
+  <span class="post-source">Перевод: {{ page.translated_by }}
+  {% if page.translated_for %}
+    для {{ page.translated_for }}
+  {% endif %}</span>
+{% endif %}

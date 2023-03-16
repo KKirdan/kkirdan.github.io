@@ -1,20 +1,17 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<!-- МОДИФИЦИРОВАНО -->
 
-  {%- include head.html -%}
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
 
   <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="container content">
         {{ content }}
       </div>
-    </main>
-
-    {%- include footer.html -%}
-
+    </div>
   </body>
-
 </html>

@@ -1,0 +1,20 @@
+<!-- МОДИФИЦИРОВАНО -->
+
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="{{ '/blog/' | absolute_url }}">Главная</a>
+	<a class="sidebar-nav-item" href="https://vk.com/kirdan">ВКонтакте</a>
+    <a class="sidebar-nav-item" href="https://t.me/k_kirdan">Telegram</a>
+    <a class="sidebar-nav-item" href="mailto:{{ site.email }}">Почта</a>
+	<a class="sidebar-nav-item" href="{{ '/' | absolute_url }}">Другие проекты</a>
+  </nav>
+</div>

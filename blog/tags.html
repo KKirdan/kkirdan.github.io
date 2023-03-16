@@ -1,0 +1,16 @@
+---
+layout: blog
+title: Теги
+---
+<div class="posts">
+  {% for tag in site.tags %}
+    <a name="{{ tag[0] }}"></a>
+    <h3>#{{ tag[0] }}</h3><ul>
+	{% for post in tag[1] %}
+	  <li><div class="post">
+	    <span class="post-date-inline">{{ post.date | date: "%Y.%m.%d" }}</span>&nbsp;
+	    <span class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
+	  </div></li>
+	{% endfor %}</ul>
+  {% endfor %}
+</div>

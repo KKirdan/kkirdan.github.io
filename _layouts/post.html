@@ -1,43 +1,25 @@
 ---
-layout: default
+layout: blog
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    {%- if page.show_title -%}
-	<h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    {%- endif -%}
-	
-	<p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%-d %b %Y г." -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        , последнее обновление 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
-      {%- endif -%}
-	  
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}</p>
-	  <!---->
-  </header>
+<!-- МОДИФИЦИРОВАНО -->
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+{% if page.show_title == true %}
+  <h1 class="post-title">{{ page.title }}</h1>
+{% endif %}
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+<div class="post">
+  <span class="post-date">
+    {% if page.updated %}
+      {{ page.date | date: "%Y.%m.%d" }}-{{ page.updated | date: "%Y.%m.%d" }}
+    {% else %}
+      {{ page.date | date: "%Y.%m.%d" }}
+    {% endif %}
+  </span>
+  {{ content }}
+  <span class="post-tags">
+    {% for tag in page.tags %}
+      <a href="/blog/tags.html#{{ tag }}">#{{ tag }}</a>
+    {% endfor %}
+  </span>
+</div>
