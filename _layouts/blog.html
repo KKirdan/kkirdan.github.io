@@ -13,18 +13,18 @@
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
-	  {% if page.head %}
         <div class="masthead">
-          <div class="container">
+          {% if page.head %}
+		  <div class="container">
             <h3 class="masthead-title">
 			  {{ page.head }}
               <small>{{ site.tagline }}</small>
             </h3>
           </div>
+		  {% else %}
+			<br>
+	      {% endif %}
         </div>
-	  {% else %}
-		<br>
-	  {% endif %}
       <div class="container content">
         {{ content }}
       </div>
