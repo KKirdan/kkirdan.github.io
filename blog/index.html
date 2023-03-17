@@ -8,8 +8,8 @@ head: Кирдан
   {% for post in site.posts %}
     {% if 7 <= post.importance and post.importance <= 10 %}
       <div class="post">
-	    <big><span class="post-date-inline">{{ post.date | date: "%Y.%m.%d" }}</span>&nbsp;
-	    <span class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span></big>
+	    <span class="post-date-inline">{{ post.date | date: "%Y.%m.%d" }}</span>&nbsp;
+	    <span class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
 		<!-- <span class="post-meta-tags" color=#B22222>
 		  {% for tag in post.meta_tags %}
 	       &middot; {{ tag }}
