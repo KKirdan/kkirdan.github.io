@@ -8,30 +8,36 @@
 
   <body>
 
-    {% include sidebar.html %}
+	{% unless page.no_button %}
+      {% include sidebar.html %}
+	{% endunless %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
+	  {% if page.head %}
         <div class="masthead">
-          {% if page.head %}
 		  <div class="container">
-            <h3 class="masthead-title">
+            <h1 class="masthead-title">
 			  {{ page.head }}
-              <small>{{ site.tagline }}</small>
-            </h3>
+			  <!-- <a href="{{ '/blog/about.html' | relative_url }}">Описание</a> &nbsp;&middot;&nbsp;
+			  <a href="https://vk.com/kirdan">ВКонтакте</a> &nbsp;&middot;&nbsp;
+			  <a href="https://t.me/k_kirdan">Telegram</a> -->
+            </h1>
           </div>
-		  {% else %}
-			<br>
-	      {% endif %}
         </div>
+	  {% else %}
+	    <br>
+	  {% endif %}
       <div class="container content">
         {{ content }}
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    {% unless page.no_button %}
+	<label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='{{ site.baseurl }}/assets/js/script.js'></script>
+	{% endunless %}
   </body>
 </html>
