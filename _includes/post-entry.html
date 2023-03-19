@@ -1,0 +1,18 @@
+<div class="post">
+  <span class="post-title">
+    <a href="{{ post.url | relative_url }}">{{ include.title }}</a>
+  </span><br>
+  {% if include.date %}
+  <span class="post-date-inline">{{ include.date | date: "%Y.%m.%d" }}</span>&nbsp;
+  {% endif %}
+  {% if include.tags %}
+  <span class="post-tags-inline">
+	{% for tag in include.tags %}
+	<a href="/blog/tags.html#{{ tag }}">#{{ tag }}</a>
+	{% endfor %}
+  </span>
+  {% endif %}
+</div>
+
+<!-- {% if post.vk %}<a href="{{ post.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
+{% if post.telegram %}<a href="{{ post.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %} -->

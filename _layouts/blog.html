@@ -8,36 +8,39 @@
 
   <body>
 
-	{% unless page.no_button %}
+	{% if page.button %}
       {% include sidebar.html %}
-	{% endunless %}
+	{% endif %}
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
-	  {% if page.head %}
-        <div class="masthead">
-		  <div class="container">
-            <h1 class="masthead-title">
-			  {{ page.head }}
-			  <!-- <a href="{{ '/blog/about.html' | relative_url }}">Описание</a> &nbsp;&middot;&nbsp;
-			  <a href="https://vk.com/kirdan">ВКонтакте</a> &nbsp;&middot;&nbsp;
-			  <a href="https://t.me/k_kirdan">Telegram</a> -->
-            </h1>
-          </div>
+	  <div class="masthead">
+		<div class="container">
+          <h2 class="masthead-title">
+			Кирдан
+          </h2>
+		  <h3 class="masthead-subtitle">
+		    {% if page.nav_id == 1 %} <u>блог</u> {% else %} <a href="{{ '/blog/index.html' | relative_url }}">блог</a> {% endif %} &middot;
+			{% if page.nav_id == 2 %} <u>темы</u> {% else %} <a href="{{ '/blog/tags.html' | relative_url }}">темы</a> {% endif %} &middot;
+			{% if page.nav_id == 3 %} <u>описание</u> {% else %} <a href="{{ '/blog/about.html' | relative_url }}">описание</a> {% endif %} &middot;
+			{% if page.nav_id == 4 %} <u>еще</u> {% else %} <a href="{{ '/blog/more.html' | relative_url }}">еще</a> {% endif %}
+		  </h3>
+		  <!-- 
+		  <a href="{{ '/index.html' | relative_url }}">проекты</a> &middot;
+		  <a href="{{ '/blog/about.html' | relative_url }}">Описание</a> &nbsp;&middot;&nbsp;
+		  <a href="https://vk.com/kirdan">ВКонтакте</a> &nbsp;&middot;&nbsp;
+		  <a href="https://t.me/k_kirdan">Telegram</a> 
+		  -->
         </div>
-	  {% else %}
-	    <br>
-	  {% endif %}
-      <div class="container content">
+      </div>
+	  <div class="container content">
         {{ content }}
       </div>
     </div>
 
-    {% unless page.no_button %}
+    {% if page.button %}
 	<label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script src='{{ site.baseurl }}/assets/js/script.js'></script>
-	{% endunless %}
+	{% endif %}
   </body>
 </html>
