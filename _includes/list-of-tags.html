@@ -1,1 +1,1 @@
-{% if include.tags.size > 0 %}<a href="/blog/tags.html#{{ include.tags[1] }}">{{ include.tags[0] }}</a>{% endif %}{% for tag in include.tags %}{% if tag != include.tags[0] %}, <a href="/blog/tags.html#{{ tag }}">{{ tag }}</a>{% endif %}{% endfor %}
+{% if include.tags.size > 0 %}<a href="/blog/tags.html#{{ include.tags[0] }}">{{ include.tags[0] }}</a>{% endif %}{% for tag in include.tags %}{% if tag != include.tags[0] %}, <a href="/blog/tags.html#{{ tag }}">{{ tag }}</a>{% endif %}{% endfor %}
