@@ -1,12 +1,15 @@
 <div class="post">
   <span class="post-title-colored">
+    {% if include.author %}
+      {{ include.author }},
+	{% endif %}
     {% if include.url %}
       <a href="{{ include.url }}">{{ include.title }}</a>
 	{% else %}
 	  {{ include.title }}
 	{% endif %}
-	{% if include.vk or include.telegram %}
-	  ({% if include.vk %}<a href="{{ include.vk }}">ВКонтакте</a>{% endif %}{% if include.telegram %}, <a href="{{ include.telegram }}">Telegram</a>{% endif %})
+	{% if include.vk or include.telegram or include.tumblr %}
+	  ({% if include.vk %}<a href="{{ include.vk }}">ВКонтакте</a>{% endif %}{% if include.telegram %}, <a href="{{ include.telegram }}">Telegram</a>{% endif %}{% if include.tumblr %}, <a href="{{ include.tumblr }}">Tumblr</a>{% endif %})
 	{% endif %}
   </span> — {{ include.text }}.
 </div>

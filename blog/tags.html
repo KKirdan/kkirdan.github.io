@@ -3,16 +3,16 @@ layout: blog
 title: "Кирдан: темы"
 nav_id: 2
 ---
-<h2>Темы по количеству постов</h2>
+<h2>Темы по количеству записей</h2>
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}<span class="post-tags-inline"><a href="#{{ tag | first }}" style="font-size: {{ tag | last | size | times: 4 | plus: 90 }}%">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a></span>
 {% endfor %}
 
-<h2>Посты по темам</h2>
+<h2>Записи по темам</h2>
 <div class="posts">
   {% for tag in site.tags %}
     <a name="{{ tag[0] }}"></a>
-    <h3><b>#{{ tag[0] }}</b></h3><ul>
+    <h3><b>{{ tag[0] }}</b></h3><ul>
 	{% for post in tag[1] %}
 	  <li>{% include post-entry.html title=post.title %}</li>
 	{% endfor %}</ul>

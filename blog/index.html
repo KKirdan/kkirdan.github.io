@@ -7,22 +7,29 @@ nav_id: 1
 <div class="posts">
   <h2>Наиболее важное:</h2>
   {% for post in site.posts %}
-    {% if 7 <= post.importance and post.importance <= 10 %}
+    {% if 7 <= post.importance and post.importance <= 10 %}{% unless post.meta_tags contains "личное" %}
       {% include post-entry.html title=post.title date=post.date tags=post.tags %}
-    {% endif %}
+    {% endunless %}{% endif %}
   {% endfor %}
   <hr>
   <h2>Средне важное:</h2>
   {% for post in site.posts %}
-    {% if 4 <= post.importance and post.importance <= 6 %}
+    {% if 4 <= post.importance and post.importance <= 6 %}{% unless post.meta_tags contains "личное" %}
       {% include post-entry.html title=post.title date=post.date tags=post.tags %}
+    {% endunless %}{% endif %}
+  {% endfor %}
+  <hr>
+  <h2>Личное:</h2>
+  {% for post in site.posts %}
+    {% if post.meta_tags contains "личное" %}
+	  {% include post-entry.html title=post.title date=post.date tags=post.tags %}
     {% endif %}
   {% endfor %}
   <hr>
-  <h2>Наименее важное:</h2>
+  <h2>Ерунда:</h2>
   {% for post in site.posts %}
-    {% if 1 <= post.importance and post.importance <= 3 %}
+    {% if 1 <= post.importance and post.importance <= 3 %}{% unless post.meta_tags contains "личное" %}
       {% include post-entry.html title=post.title date=post.date tags=post.tags %}
-    {% endif %}
+    {% endunless %}{% endif %}
   {% endfor %}
 </div>

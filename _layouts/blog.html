@@ -16,13 +16,14 @@
 	  <div class="masthead">
 		<div class="container">
           <h2 class="masthead-title">
-			Кирдан
+			{% if page.nav_id == 0 %} <u>Кирдан</u> {% else %} <a href="{{ '/index.html' | relative_url }}">Кирдан</a> {% endif %}
           </h2>
 		  <h3 class="masthead-subtitle">
 		    {% if page.nav_id == 1 %} <u>блог</u> {% else %} <a href="{{ '/blog/index.html' | relative_url }}">блог</a> {% endif %} &middot;
 			{% if page.nav_id == 2 %} <u>темы</u> {% else %} <a href="{{ '/blog/tags.html' | relative_url }}">темы</a> {% endif %} &middot;
 			{% if page.nav_id == 3 %} <u>описание</u> {% else %} <a href="{{ '/blog/about.html' | relative_url }}">описание</a> {% endif %} &middot;
-			{% if page.nav_id == 4 %} <u>еще</u> {% else %} <a href="{{ '/blog/more.html' | relative_url }}">еще</a> {% endif %}
+			<!-- {% if page.nav_id == 4 %} <u>идеи</u> {% else %} <a href="{{ '/blog/ideas.html' | relative_url }}">идеи</a> {% endif %} &middot; -->
+			{% if page.nav_id == 5 %} <u>ссылки</u> {% else %} <a href="{{ '/blog/links.html' | relative_url }}">ссылки</a> {% endif %}
 		  </h3>
 		  <!-- 
 		  <a href="{{ '/index.html' | relative_url }}">проекты</a> &middot;

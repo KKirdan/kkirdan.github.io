@@ -16,11 +16,10 @@ layout: blog
       {{ page.date | date: "%Y.%m.%d" }}
     {% endif %}
   </span>
+  {{ page.remark }}
   {{ content }}
   <hr>
   <span class="post-tags">
-    {% for tag in page.tags %}
-      <a href="/blog/tags.html#{{ tag }}">#{{ tag }}</a>
-    {% endfor %}
+    {% include list-of-tags.html tags=page.tags %}
   </span>
 </div>
