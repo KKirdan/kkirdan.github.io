@@ -20,10 +20,12 @@ nav_id: 5
 
 ## На английском языке:
 
+{% include project-entry.html title="Effective Altruism" url="https://www.effectivealtruism.org/" text="об эффективных способах сделать мир лучше" %}
 {% include project-entry.html title="Center on Long-Term Risk" url="https://longtermrisk.org/" text="проект, посвященный уменьшению рисков глобального увеличения страданий в будущем (в том числе рисков, связанных с искусственным интеллектом)" %}
 {% include project-entry.html title="Center for Reducing Suffering" url="https://centerforreducingsuffering.org/" text="еще один такой проект" %}
 {% include project-entry.html title="Essays on Reducing Suffering" url="https://reducing-suffering.org/" text="сайт Брайана Томасика об уменьшении страданий (особенно страданий животных в дикой природе и потенциальных страданий искусственного интеллекта)" %}
 {% include project-entry.html title="Suffering-Focused Ethics Resources" url="https://suffering-focused-ethics.surge.sh/" text="ресурсы по этике, сфокусированной на уменьшении страданий" %}
+{% include project-entry.html title="Utilitarianism" url="https://www.utilitarianism.net/" text="хорошие статьи для знакомства с утилитаризмом" %}
 {% include project-entry.html title="Animal Ethics" url="https://www.animal-ethics.org/" text="исследование способов уменьшить страдания животных в дикой природе" %}
 
 # Книги:
