@@ -4,6 +4,9 @@ layout: blog
 
 <!-- МОДИФИЦИРОВАНО -->
 
+{% if page.remark %}{{ page.remark }}<hr>{% endif %}
+{% if page.meta_tags contains "черновик" %}Это черновик!<hr>{% endif %}
+
 {% if page.show_title == true %}
   <h1 class="post-title">{{ page.title }}</h1>
 {% endif %}
@@ -16,7 +19,6 @@ layout: blog
       {{ page.date | date: "%Y.%m.%d" }}
     {% endif %}
   </span>
-  {{ page.remark }}
   {{ content }}
   <hr>
   <span class="post-tags">
