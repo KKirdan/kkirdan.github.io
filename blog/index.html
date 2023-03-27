@@ -26,7 +26,7 @@ nav_id: 1
     {% endif %}
   {% endfor %}
   <hr>
-  <h2>Неважное:</h2>
+  <h2>Прочее:</h2>
   {% for post in site.posts %}
     {% if 1 <= post.importance and post.importance <= 3 %}{% unless post.meta_tags contains "личное" %}
       {% include post-entry.html title=post.title date=post.date tags=post.tags %}
