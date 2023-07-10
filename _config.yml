@@ -9,6 +9,8 @@ permalink:           /blog/:title:output_ext
 # About/contact
 email:               latif.rosh@gmail.com
 
+future: true
+
 collections:
   ideas:
     output: true
