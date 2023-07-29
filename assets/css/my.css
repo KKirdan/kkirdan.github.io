@@ -79,3 +79,8 @@ a {
 .underline {
   text-decoration: underline;
 }
+
+/* Body text */
+p {
+  text-align: justify;
+}

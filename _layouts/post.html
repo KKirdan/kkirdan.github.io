@@ -5,7 +5,7 @@ layout: blog
 <!-- МОДИФИЦИРОВАНО -->
 
 {% if page.remark %}{{ page.remark }}<hr>{% endif %}
-{% if page.meta_tags contains "черновик" %}Это черновик!<hr>{% endif %}
+{% if page.comment %}{{ page.comment }}<hr>{% elsif page.meta_tags contains "черновик" %}Это черновик!<hr>{% endif %}
 
 {% if page.show_title == true %}
   <h1 class="post-title">{{ page.title }}</h1>
