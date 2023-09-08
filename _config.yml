@@ -11,10 +11,5 @@ email:               latif.rosh@gmail.com
 
 future: true
 
-collections:
-  ideas:
-    output: true
-    permalink: /blog/:title:output_ext
-
 # Custom vars
 google_analytics: G-BQPMQ2SPK5
