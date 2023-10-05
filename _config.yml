@@ -6,7 +6,8 @@ url:                 kkirdan.github.io
 baseurl:             ''
 permalink:           /blog/:title:output_ext
 
-# About/contact
+vk:                  https://vk.com/k_kirdan
+telegram:            https://t.me/k_kirdan
 email:               latif.rosh@gmail.com
 
 future: true
