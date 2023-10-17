@@ -15,12 +15,12 @@ nav_id: 5
 {% include project-entry.html title="Эффективный альтруизм" url="https://ea-ru.org/" vk="https://vk.com/public71205962" telegram="https://t.me/effectivealtruism" text="о том, как эффективнее менять мир в лучшую сторону" %}
 {% include project-entry.html title="Центр рациональности Кочерга" url="https://kocherga-club.ru/" vk="https://vk.com/kocherga_club" text="встречи и общение на тему рационального мышления и не только" %}
 {% include project-entry.html title="Безопасность искусственного интеллекта" url="https://aisafety.ru/" text="переводы статей по согласованию искусственного интеллекта" %}
-{% include project-entry.html title="Matter and Mind" url="https://ubq124.wordpress.com" vk="https://vk.com/public44220375" youtube="https://www.youtube.com/c/MatterandMind" text="переводы и озвучка статей по философии сознания, этике и не только" %}
 {% include project-entry.html title="Разные ресурсы об антинатализме" url="https://reducingsuffering.github.io/520.html" %}
-{% include project-entry.html title="EQUALITY" vk="https://vk.com/g_equality" telegram="https://t.me/g_equality" text="пишут и переводят материалы о гендере и гендерном равенстве (результаты научных исследований, анализы книг и статей, критика сексистских идей)" %}
-{% include project-entry.html title="CMS | Маскулизм+" vk="https://vk.com/checkmatescum" telegram="https://t.me/checkmatescum" tumblr="https://ru-masculism.tumblr.com/" text="один из немногих более-менее приличных ресурсов о проблемах мужского гендера; ссылки на другие ресурсы можно найти там же" %}
+{% include project-entry.html title="Matter and Mind" url="https://ubq124.wordpress.com" vk="https://vk.com/public44220375" youtube="https://www.youtube.com/c/MatterandMind" text="переводы и озвучка статей по философии сознания, этике и не только" %}
 {% include project-entry.html title="Brick of Knowledge" url="https://brickofknowledge.com/" telegram="https://t.me/brickofknowledge" text="переводы статей из Стэнфордской энциклопедии философии" %}
 {% include project-entry.html title="Philosophy.ru" url="https://philosophy.ru/" text="переводы статей из Стэнфордской энциклопедии философии" %}
+{% include project-entry.html title="EQUALITY" vk="https://vk.com/g_equality" telegram="https://t.me/g_equality" text="пишут и переводят материалы о гендере и гендерном равенстве (результаты научных исследований, анализы книг и статей, критика сексистских идей)" %}
+{% include project-entry.html title="CMS | Маскулизм+" vk="https://vk.com/checkmatescum" telegram="https://t.me/checkmatescum" tumblr="https://ru-masculism.tumblr.com/" text="один из немногих более-менее приличных ресурсов о проблемах мужского гендера; ссылки на другие ресурсы можно найти там же" %}
 
 ## На английском языке:
 
