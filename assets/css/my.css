@@ -80,6 +80,10 @@ a {
   text-decoration: underline;
 }
 
+.draft {
+  color: #E32636;
+}
+
 /* Body text */
 p {
   text-align: justify;

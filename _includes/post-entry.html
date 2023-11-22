@@ -1,7 +1,8 @@
 <div class="post">
   <span class="post-title">
-    <a href="{{ post.url | relative_url }}">{{ include.title }}</a>
-  </span><br>
+    <a href="{{ post.url | relative_url }}">{{ include.title }}{% if include.meta contains "черновик" %} <span class="draft">(черновик)</span>{% endif %}</a>
+  </span>
+  <br>
   {% if include.date %}
   <span class="post-date-inline">{{ include.date | date: "%Y.%m.%d" }}</span>&nbsp;
   {% endif %}
