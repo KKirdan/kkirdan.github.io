@@ -7,7 +7,7 @@ nav_id: 3
 
 ## Взгляды
 
-Я атеист (точнее [игтеист/игностик](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC)), увлекаюсь рациональностью (см. [LessWrong](https://lesswrong.ru/)), [уличной эпистемологией](https://streetepistemology.ru/), [этикой](301RS.html) и [эффективным альтруизмом](https://effectivealtruism.ru/introduction-to-effective-altruism/), сторонник уменьшения страданий во вселенной (см. [негативный утилитаризм](71RS.html)), [трансгуманист](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC), антисексист/[маскулист](https://ru-masculism.tumblr.com/), за права [ЛГБТИА](https://ru.wikipedia.org/wiki/%D0%9B%D0%93%D0%91%D0%A2), за право на [эвтаназию](https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D1%82%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F).
+Я атеист (точнее [игтеист/игностик](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC)), увлекаюсь рациональностью (см. [LessWrong](https://lesswrong.ru/)), [уличной эпистемологией](https://streetepistemology.ru/), [этикой](301RS.html) и [эффективным альтруизмом](https://effectivealtruism.ru/introduction-to-effective-altruism/), сторонник уменьшения страданий во вселенной (см. [негативный утилитаризм](71RS.html)), [трансгуманист](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC), антисексист/[маскулист](https://ru-masculism.tumblr.com/).
 
 ## Интересы
 
