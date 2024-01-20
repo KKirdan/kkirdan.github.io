@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 
-<!-- МОДИФИЦИРОВАНО -->
-
 <html lang="en-us">
 
   {% include head.html %}
+  {% if page.math %}{% include mathjax.html %}{% endif %}
 
   <body>
-
-	{% if page.button %}
-      {% include sidebar.html %}
-	{% endif %}
-
     <div class="wrap">
 	  <div class="masthead">
 		<div class="container">
@@ -22,26 +16,13 @@
 		    {% if page.nav_id == 1 %} <u>блог</u> {% else %} <a href="{{ '/blog/index.html' | relative_url }}">блог</a> {% endif %} &middot;
 			{% if page.nav_id == 2 %} <u>темы</u> {% else %} <a href="{{ '/blog/tags.html' | relative_url }}">темы</a> {% endif %} &middot;
 			{% if page.nav_id == 3 %} <u>описание</u> {% else %} <a href="{{ '/blog/about.html' | relative_url }}">описание</a> {% endif %} &middot;
-			<!-- {% if page.nav_id == 4 %} <u>идеи</u> {% else %} <a href="{{ '/blog/ideas.html' | relative_url }}">идеи</a> {% endif %} &middot; -->
-			{% if page.nav_id == 5 %} <u>ссылки</u> {% else %} <a href="{{ '/blog/links.html' | relative_url }}">ссылки</a> {% endif %}
+			{% if page.nav_id == 4 %} <u>ссылки</u> {% else %} <a href="{{ '/blog/links.html' | relative_url }}">ссылки</a> {% endif %}
 		  </h3>
-		  <!-- 
-		  <a href="{{ '/index.html' | relative_url }}">проекты</a> &middot;
-		  <a href="{{ '/blog/about.html' | relative_url }}">Описание</a> &nbsp;&middot;&nbsp;
-		  <a href="https://vk.com/kirdan">ВКонтакте</a> &nbsp;&middot;&nbsp;
-		  <a href="https://t.me/k_kirdan">Telegram</a> 
-		  -->
         </div>
       </div>
 	  <div class="container content">
         {{ content }}
       </div>
     </div>
-
-    {% if page.button %}
-	<label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script src='{{ site.baseurl }}/assets/js/script.js'></script>
-	{% endif %}
   </body>
 </html>
