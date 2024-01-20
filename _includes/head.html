@@ -31,13 +31,9 @@
   <link rel="stylesheet" href="{{ '/assets/css/lanyon.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/my.css' | relative_url }}">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-
-  <!--
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/apple-touch-icon-precomposed.png' | absolute_url }}">
-  <link rel="shortcut icon" href="{{ '/assets/favicon.ico' | absolute_url }}"> 
-  -->
   
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  {% if page.math %}{% include mathjax.html %}{% endif %}
 </head>
