@@ -23,3 +23,5 @@ layout: blog
     {% include list-of-tags.html tags=page.tags %}
   </span>
 </div>
+
+{% if page.math %}{% include mathjax.html %}{% endif %}
