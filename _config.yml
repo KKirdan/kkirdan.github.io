@@ -1,6 +1,3 @@
-# МОДИФИЦИРОВАНО
-
-# Setup
 title:               Кирдан
 url:                 kkirdan.github.io
 baseurl:             ''
@@ -12,5 +9,4 @@ email:               latif.rosh@gmail.com
 
 future: true
 
-# Custom vars
 google_analytics: G-BQPMQ2SPK5
