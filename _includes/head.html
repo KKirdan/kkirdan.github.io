@@ -1,15 +1,10 @@
-<!-- МОДИФИЦИРОВАНО -->
-
 <head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
-  <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
-  <!-- <link rel="stylesheet" href="https://kit.fontawesome.com/b9e75d2024.css" crossorigin="anonymous"> -->
-  <!-- <link rel="stylesheet" href="{{ '/assets/css/font-awesome.min.css' | absolute_url }}"> -->
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <meta property="og:title" content="{{ page.title }} | Кирдан">
+  <meta property="og:title" content="{{ page.title }} | {% if page.authors %}{{ page.authors | join: ", " }}{% else %}Кирдан{% endif %}">
   <meta property="og:site_name" content="К. Кирдан">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -19,7 +14,7 @@
   <meta property="og:image:height" content="504">
 
   <title>
-	{{ page.title }}
+	{{ page.title }}{% unless page.nav_id==0 %} | {% if page.authors %}{{ page.authors | join: ", " }}{% else %}Кирдан{% endif %}{% endunless %}
   </title>
 
   {% if page.url and site.baseurl %}

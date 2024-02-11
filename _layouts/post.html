@@ -3,7 +3,7 @@ layout: blog
 ---
 
 {% if page.remark %}{{ page.remark }}<hr>{% endif %}
-{% if page.meta_tags contains "черновик" %}<span class="draft">{% if page.comment %}{{ page.comment }}{% else %}Это черновик!{% endif %}</span><hr>{% endif %}
+{% if page.meta_tags contains "черновик" %}<b><span class="draft">{% if page.comment %}{{ page.comment }}{% else %}Это черновик!{% endif %}</span></b><hr style="margin-top: 0.2em; margin-bottom: 0.5em;">{% endif %}
 
 {% if page.show_title == true %}
   <h1 class="post-title">{{ page.title }}</h1>

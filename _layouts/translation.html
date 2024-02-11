@@ -2,9 +2,11 @@
 layout: blog
 ---
 
+<div class="draft"><b>Это перевод. {% if page.edit %}Предложить правки можно <a href="{{ page.edit }}">здесь</a>.{% endif %}</b></div>
+<hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
+
 <h1 class="post-title">{{ page.title }}</h1>
 <div><b>{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}</b></div>
-Это перевод. {% if page.edit %}Предложить правки можно <a href="{{ page.edit }}">здесь</a>.<br>{% endif %}
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
 
 {{ content }}
