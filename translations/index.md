@@ -64,3 +64,4 @@ _<...этот раздел находится в разработке...>_
 
 **Томас Метцингер:**
 * ред. "[Искусственное страдание: аргумент в пользу глобального моратория на синтетическую феноменологию](https://vk.com/@-210202656-iskusstvennoe-stradanie-argument-v-polzu-globalnogo-moratori)" (пер. Евгений Вдовин, ориг. "[An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.philosophie.fb05.uni-mainz.de/files/2021/02/Metzinger_Moratorium_JAIC_2021.pdf)", 2021)
+

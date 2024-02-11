@@ -20,3 +20,7 @@ nav_id: 0
 {% include project-entry.html title="что-то важное (или нет)" vk="https://vk.com/public194967191" text="склад всяких интересностей из науки и философии" %}
 {% include project-entry.html title="something relevant (or not)" vk="https://vk.com/public195713045" text="склад об этике и эффективном альтруизме на английском языке" %}
 {% include project-entry.html title="За гранью" vk="https://vk.com/public188637166" text="маленькая группа о фантастике и ужасах; играх, книгах и кино" %}
+
+---
+
+Связь со мной: [ВКонтакте](https://vk.com/latif_rosh), [Telegram](https://t.me/KKirdan), latif.rosh@gmail.com
