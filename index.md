@@ -9,7 +9,7 @@ nav_id: 0
 * <a href="/blog/index.html">Мой личный блог</a>, посвященный этике, рациональному мышлению, трансгуманизму, искусственному интеллекту, социальной справедливости и другим темам (более подробное описание см. <a href="/blog/about.html">тут</a>).<br>
 За новостями блога можно следить в соцсетях <a href="{{ site.vk }}">ВКонтакте</a> и <a href="{{ site.telegram }}">Telegram</a>.
 * <a href="/blog/translations.html">Список переводов с английского</a>, которыми я занимался.
-* <a href="/blog/links.html">Список рекомендуемых мной ресурсов</a> на разные темы.
+* <a href="/blog/links.html">Список рекомендуемых ресурсов</a> на разные темы.
 
 Также см. другие мои проекты:
 {% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" %}
