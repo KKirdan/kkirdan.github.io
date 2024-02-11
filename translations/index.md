@@ -4,7 +4,7 @@ title: "Кирдан: переводы"
 ---
 Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал. Отсортировано по авторам.
 
----
+# Готовые
 
 **Брайан Томасик:**
 * пер. "[Умножит ли колонизация космоса страдания диких животных?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html)" (ориг. "[Will Space Colonization Multiply Wild-Animal Suffering?](https://reducing-suffering.org/will-space-colonization-multiply-wild-animal-suffering/)", 2014-2018)
@@ -49,3 +49,18 @@ title: "Кирдан: переводы"
 
 **Саймон Кнутссон:**
 * пер. "[Довод в один абзац в пользу этики, сфокусированной на страдании](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html)" (ориг. "[The One-Paragraph Case for Suffering-Focused Ethics](https://www.simonknutsson.com/the-one-paragraph-case-for-suffering-focused-ethics)", 2016)
+
+**\_9MOTHER9HORSE9EYES9:**
+ * пер. "[Интерфейс из плоти: Чем является Мать](https://vk.com/@-188637166-flesh-interface-what-mother-is)" (ориг. "[What Mother is](http://web.archive.org/web/20181001225734/https://www.reddit.com/r/9M9H9E9/comments/9kf3tg/what_mother_is/)", 2018)
+
+# На проверке
+
+**Элиезер Юдковский:**
+* пер. "[Жить во многих мирах](eliezer-yudkowsky-living-in-many-worlds.html)" (ориг. "[Living in Many Worlds](https://www.readthesequences.com/Living-In-Many-Worlds)", 2008)
+
+# В процессе
+
+_<...этот раздел находится в разработке...>_
+
+**Томас Метцингер:**
+* ред. "[Искусственное страдание: аргумент в пользу глобального моратория на синтетическую феноменологию](https://vk.com/@-210202656-iskusstvennoe-stradanie-argument-v-polzu-globalnogo-moratori)" (пер. Евгений Вдовин, ориг. "[An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.philosophie.fb05.uni-mainz.de/files/2021/02/Metzinger_Moratorium_JAIC_2021.pdf)", 2021)

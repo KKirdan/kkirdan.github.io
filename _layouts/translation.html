@@ -1,0 +1,21 @@
+---
+layout: blog
+---
+
+<h1 class="post-title">{{ page.title }}</h1>
+<div><b>{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}</b></div>
+Это перевод. {% if page.edit %}Предложить правки можно <a href="{{ page.edit }}">здесь</a>.<br>{% endif %}
+<hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
+
+{{ content }}
+
+<hr>
+<span class="post-tags">
+  Оригинал: <a href="{{ page.original }}">{% if page.original_title %}{{ page.original_title }}{% else %}{{ page.original }}{% endif %}</a><br>
+  {% if page.license %}Лицензия: <a href="{{ page.license[1] }}">{{ page.license[0] }}</a><br>{% endif %}
+  {% if page.translated_by %}Перевод: {{ page.translated_by | join: ", " }}<br>{% endif %}
+  {% if page.edited_by %}Редактура: {{ page.edited_by | join: ", " }}{% if page.edited_what %} ({{ page.edited_what }}){% endif %}<br>{% endif %}
+  {% if page.last_update %}Последнее обновление: {{ page.last_update }}<br>{% endif %}
+  {% if page.edit %}Предложить правки можно <a href="{{ page.edit }}">здесь</a><br>{% endif %}
+  {{ page.comment }}
+</span>
