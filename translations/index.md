@@ -42,6 +42,9 @@ title: "Переводы"
 **Дэвид Пирс \| David Pearce:**
 * [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
 
+**Лукас Глор \| Lukas Gloor:**
+* [Этика и объективность \| Ethics and Objectivity](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) (2014)
+
 **Джон Стюарт Милль \| John Stuart Mill:**
 * [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
 
