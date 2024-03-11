@@ -33,4 +33,4 @@ nav_id: 0
 
 <hr style="margin: 10px">
 
-Связь со мной: <a href="{{ site.vk }}">ВКонтакте</a>, <a href="{{ site.telegram }}">Telegram</a>, эл. почта <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+Связь со мной: <a href="{{ site.contact_vk }}">ВКонтакте</a>, <a href="{{ site.contact_telegram }}">Telegram</a>, эл. почта <a href="mailto:{{ site.email }}">{{ site.email }}</a>
