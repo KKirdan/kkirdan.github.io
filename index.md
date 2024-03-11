@@ -14,13 +14,23 @@ nav_id: 0
 
 <a href="/blog/links.html">Список рекомендуемых ресурсов</a> на разные темы.
 
-Также см. другие мои проекты:
-{% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" %}
+<hr style="margin: 10px">
+
+Помимо этого сайта я работаю над следующим проектом:
+
+{% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" icon="https://reducingsuffering.github.io/assets/images/favicon.ico" %}
+
+Кстати, вы можете поддержать меня через <a href="{{ site.patreon }}">Patreon</a> или <a href="{{ site.boosty }}">Boosty</a>.
+
+<hr style="margin: 10px">
+
+Другие проекты, которыми я занимался раньше, но уже не планирую развивать:
+
 {% include project-entry.html title="Reason & Justice" vk="https://vk.com/public187680241" text="о политике, социальной справедливости и связанных темах" %}
 {% include project-entry.html title="что-то важное (или нет)" vk="https://vk.com/public194967191" text="склад всяких интересностей из науки и философии" %}
 {% include project-entry.html title="something relevant (or not)" vk="https://vk.com/public195713045" text="склад об этике и эффективном альтруизме на английском языке" %}
 {% include project-entry.html title="За гранью" vk="https://vk.com/public188637166" text="маленькая группа о фантастике и ужасах; играх, книгах и кино" %}
 
----
+<hr style="margin: 10px">
 
-Связь со мной: [ВКонтакте](https://vk.com/latif_rosh), [Telegram](https://t.me/KKirdan), latif.rosh@gmail.com
+Связь со мной: <a href="{{ site.vk }}">ВКонтакте</a>, <a href="{{ site.telegram }}">Telegram</a>, эл. почта <a href="mailto:{{ site.email }}">{{ site.email }}</a>
