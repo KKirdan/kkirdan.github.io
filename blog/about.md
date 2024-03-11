@@ -23,10 +23,14 @@ nav_id: 3
 
 ## История сайта
 
-Я начал вести личный блог в 2019-м году в [Живом Журнале](https://kkirdan.livejournal.com/), где пробыл совсем недолго и забросил его, переехав во [ВКонтакте](https://vk.com/kirdan). Затем в 2022-м продублировал его в [Telegram](https://t.me/k_kirdan) и разместил некоторые тексты на [Medium](https://medium.com/@k.kirdan). Наконец, в 2023 создал и опубликовал данный сайт, где и планирую дальше размещать все наиболее важное. Страницы в ВК и Telegram по прежнему будут использоваться для передачи новостей блога.
+Я начал вести личный блог в 2019-м году в [Живом Журнале](https://kkirdan.livejournal.com/), где пробыл совсем недолго и забросил его, переехав во [ВКонтакте](https://vk.com/kirdan). Затем в 2022-м продублировал его в [Telegram](https://t.me/k_kirdan) и разместил некоторые тексты на [Medium](https://medium.com/@k.kirdan). Наконец, в 2023 создал и опубликовал данный сайт, где и планирую дальше размещать все наиболее важное. Страницы в ВК и Telegram по прежнему будут использоваться для передачи новостей блога, а вот Medium - вряд ли.
 
 Данная версия сайта основана на шаблоне [Lanyon](https://lanyon.getpoole.com/) и сделана с помощью системы сборки статических сайтов [Jekyll](https://jekyllrb.com/), встроенной в [GitHub Pages](https://pages.github.com/).
 
 ## Обратная связь
 
-[ВКонтакте](https://vk.com/latif_rosh), [Telegram](https://t.me/KKirdan), latif.rosh@gmail.com
+Связаться со мной можно через <a href="{{ site.contact_vk }}">ВКонтакте</a>, <a href="{{ site.contact_telegram }}">Telegram</a> или по электронной почте <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+
+## Поддержать
+
+Вы можете финансово поддержать меня через <a href="{{ site.patreon }}">Patreon</a> или <a href="{{ site.boosty }}">Boosty</a>.
