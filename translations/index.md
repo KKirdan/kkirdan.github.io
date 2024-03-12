@@ -36,6 +36,9 @@ title: "Переводы"
 * [Зачем размышлять о страданиях \| Contemplation of Suffering and Compassion](https://reducingsuffering.github.io/ron-anderson-contemplation-of-suffering-and-compassion.html) (2015)
 * [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
 
+**Элиезер Юдковский \| Eliezer Yudkowsky:**
+* [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008), предложить правки можно [здесь](https://docs.google.com/document/d/16wMxISHRNOMtxvQh58zkVKSdeDjqY-xD2xhxNuRYjoU/edit?usp=sharing)
+  
 **Скотт Александер \| Scott Alexander:**
 * [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
 
@@ -56,8 +59,3 @@ title: "Переводы"
 
 **\_9Mother9Horse9Eyes9:**
  * [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
-
-# На проверке
-
-**Элиезер Юдковский \| Eliezer Yudkowsky:**
-* [Жить во многих мирах \| Living in Many Worlds](eliezer-yudkowsky-living-in-many-worlds.html) (2008)
