@@ -11,6 +11,7 @@ original_title: Living in Many-Worlds
 license:
   - CC BY-NC-SA 3.0
   - https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru
+redirect: https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html
 ---
 Некоторые комментаторы недавно выразили беспокойство по поводу мысли о постоянном их расщеплении на миллионы других людей, что [прямо и неизбежно предсказывает квантовая механика](https://www.readthesequences.com/ManyWorldsOneBestGuess).
 
