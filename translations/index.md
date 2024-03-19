@@ -25,7 +25,7 @@ title: "Переводы"
 * [Что я могу сделать для предотвращения собственных интенсивных страданий? \| What can I do to prevent my own intense suffering?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-my-own-intense-suffering.html) (2020)
 * [Кур и свиней сжигают и варят живьем в Европе и США \| Chicken and pigs burned and boiled alive in Europe and USA](https://reducingsuffering.github.io/manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html) (2020)
 * [Зачем фокусироваться на уменьшении интенсивного страдания? \| Why to focus on reducing intense suffering?](https://reducingsuffering.github.io/manu-herran-why-to-focus-on-reducing-intense-suffering.html) (2019)
-* [Вещи, которые отталкивают внимание \| Stuff that repels the attention](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html)" (2019)
+* [Вещи, которые отталкивают внимание \| Stuff that repels the attention](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html) (2019)
 * [Пустой, открытый и закрытый индивидуализм \| Empty, Open and Closed Individualism](https://reducingsuffering.github.io/manu-herran-empty-open-and-closed-individualism.html) (2018), редактура
 
 **Майкл Делло-Иаково \| Michael Dello-Iacovo:**
