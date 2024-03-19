@@ -37,7 +37,7 @@ title: "Переводы"
 * [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
 
 **Элиезер Юдковский \| Eliezer Yudkowsky:**
-* [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008), предложить правки можно [здесь](https://docs.google.com/document/d/16wMxISHRNOMtxvQh58zkVKSdeDjqY-xD2xhxNuRYjoU/edit?usp=sharing)
+* [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008)
 * [Нет универсально убедительных аргументов \| No Universally Compelling Arguments](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) (2008)
   
 **Скотт Александер \| Scott Alexander:**
