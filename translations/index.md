@@ -38,6 +38,7 @@ title: "Переводы"
 
 **Элиезер Юдковский \| Eliezer Yudkowsky:**
 * [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008), предложить правки можно [здесь](https://docs.google.com/document/d/16wMxISHRNOMtxvQh58zkVKSdeDjqY-xD2xhxNuRYjoU/edit?usp=sharing)
+* [Нет универсально убедительных аргументов \| No Universally Compelling Arguments](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) (2008)
   
 **Скотт Александер \| Scott Alexander:**
 * [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
