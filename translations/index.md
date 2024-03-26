@@ -45,6 +45,7 @@ title: "Переводы"
 
 **Дэвид Пирс \| David Pearce:**
 * [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
+* [Квантовая этика? Страдания в мультивселенной \| Quantum Ethics? Suffering in the Multiverse](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
 
 **Лукас Глор \| Lukas Gloor:**
 * [Этика и объективность \| Ethics and Objectivity](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) (2014)
