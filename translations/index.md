@@ -2,9 +2,7 @@
 layout: blog
 title: "Переводы"
 ---
-Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал. Отсортировано по авторам.
-
-# Готовые
+Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал.
 
 **Брайан Томасик \| Brian Tomasik:**
 * [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
