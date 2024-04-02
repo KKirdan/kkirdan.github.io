@@ -20,8 +20,6 @@ nav_id: 0
 
 {% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" icon="https://reducingsuffering.github.io/assets/images/favicon.ico" %}
 
-Кстати, вы можете поддержать меня через <a href="{{ site.patreon }}">Patreon</a> или <a href="{{ site.boosty }}">Boosty</a>.
-
 <hr style="margin: 10px">
 
 Другие проекты, которыми я занимался раньше, но уже не планирую развивать:
