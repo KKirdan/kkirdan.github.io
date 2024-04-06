@@ -30,7 +30,3 @@ nav_id: 3
 ## Обратная связь
 
 Связаться со мной можно через <a href="{{ site.contact_vk }}">ВКонтакте</a>, <a href="{{ site.contact_telegram }}">Telegram</a> или по электронной почте <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-
-## Поддержать
-
-Вы можете финансово поддержать меня через <a href="{{ site.patreon }}">Patreon</a> или <a href="{{ site.boosty }}">Boosty</a>.
