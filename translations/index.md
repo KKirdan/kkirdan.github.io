@@ -12,6 +12,7 @@ title: "Переводы"
 * [Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из "[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)", 2011-2019)
 * [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
 * [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
+* [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
 
 **Магнус Виндинг \| Magnus Vinding:**
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
@@ -37,6 +38,7 @@ title: "Переводы"
 **Элиезер Юдковский \| Eliezer Yudkowsky:**
 * [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008)
 * [Нет универсально убедительных аргументов \| No Universally Compelling Arguments](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) (2008)
+* [Суть твоя — физика \| Thou Art Physics](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) (2008)
   
 **Скотт Александер \| Scott Alexander:**
 * [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
