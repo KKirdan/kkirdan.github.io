@@ -18,6 +18,7 @@ title: "Переводы"
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
+* [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 
 **Ману Эрран \| Manu Herrán:**
 * [Что я могу сделать для предотвращения интенсивных страданий? \| What can I do to prevent intense suffering?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-intense-suffering.html) (2020)
@@ -49,6 +50,7 @@ title: "Переводы"
 
 **Лукас Глор \| Lukas Gloor:**
 * [Этика и объективность \| Ethics and Objectivity](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) (2014)
+* [Цели и средства \| Means and Ends](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) (2015)
 
 **Джон Стюарт Милль \| John Stuart Mill:**
 * [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
@@ -60,4 +62,4 @@ title: "Переводы"
 * [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
 
 **Другие \:**
- * _9Mother9Horse9Eyes9, [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
+* _9Mother9Horse9Eyes9, [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
