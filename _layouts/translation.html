@@ -2,14 +2,14 @@
 layout: default
 ---
 <h1 class="post-title" style="margin-top: 0.2em">{{ page.title }}</h1>
-<div><b>{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}</b></div>
+<div><b>{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}{{ page.source }}</b></div>
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
 
 {{ content }}
 
 <hr>
 <span class="post-tags">
-  Оригинал: <a href="{{ page.original }}">{% if page.original_title %}{{ page.original_title }}{% else %}{{ page.original }}{% endif %}</a><br>
+  Оригинал: <a href="{{ page.original }}">{% if page.original_title %}{{ page.original_title }}{% else %}{{ page.original }}{% endif %}</a>{% if page.original2 %}(<a href="{{ page.original2 }}">{{ page.original2 }}</a>){% endif %}<br>
   {% if page.license %}Лицензия: <a href="{{ page.license[1] }}">{{ page.license[0] }}</a><br>{% endif %}
   {% if page.translated_by %}Перевод: {{ page.translated_by | join: ", " }}<br>{% endif %}
   {% if page.edited_by %}Редактура: {{ page.edited_by | join: ", " }}{% if page.edited_what %} ({{ page.edited_what }}){% endif %}<br>{% endif %}
