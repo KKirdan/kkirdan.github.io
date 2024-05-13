@@ -15,7 +15,7 @@ title: "Переводы"
 * [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 **Магнус Виндинг \| Magnus Vinding:**
-* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги "Compassionate Purpose: Personal Inspiration for a Better World") (2024)
+* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги "[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058/edit)", 2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
