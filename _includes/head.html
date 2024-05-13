@@ -5,7 +5,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <meta property="og:title" content="{{ page.title }} | {% if page.authors %}{{ page.authors | join: ", " }}{% else %}Кирдан{% endif %}">
+  <meta property="og:title" content="{{ page.title }} | {% if page.authors or page.source %}{{ page.authors | join: ", " }}{{ page.source }}{% else %}Кирдан{% endif %}">
   <meta property="og:site_name" content="К. Кирдан">
   <meta property="og:type" content="article">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -15,7 +15,7 @@
   <meta property="og:image:height" content="504">
 
   <title>
-	{{ page.title }}{% unless page.nav_id==0 %} | {% if page.authors %}{{ page.authors | join: ", " }}{% else %}Кирдан{% endif %}{% endunless %}
+	{{ page.title }}{% unless page.nav_id==0 %} | {% if page.authors or page.source %}{{ page.authors | join: ", " }}{{ page.source }}{% else %}Кирдан{% endif %}{% endunless %}
   </title>
 
   {% if page.url and site.baseurl %}
