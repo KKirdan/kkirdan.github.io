@@ -63,8 +63,8 @@ title: "Переводы"
 **Саймон Кнутссон \| Simon Knutsson:**
 * [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
 
-**Arbital:**
-* [Максимизатор скрепок](arbital/paperclip-maximizer.html)
+**Сайт Arbital:**
+* [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
 
 **Другие:**
 * _9Mother9Horse9Eyes9, [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
