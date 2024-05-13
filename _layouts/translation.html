@@ -11,7 +11,7 @@ layout: default
 <span class="post-tags">
   Оригинал: <a href="{{ page.original }}">{% if page.original_title %}{{ page.original_title }}{% else %}{{ page.original }}{% endif %}</a>{% if page.original2 %} (<a href="{{ page.original2 }}">{{ page.original2 }}</a>){% endif %}<br>
   {% if page.license %}Лицензия: <a href="{{ page.license[1] }}">{{ page.license[0] }}</a><br>{% endif %}
-  {% if page.translated_by %}Перевод: {% if page.translated_by == "К. Кирдан" %}<a href="{{ 'index.html' | absolute_url }}">{{ page.translated_by }}</a>{% else %}{{ page.translated_by | join: ", " }}{% endif %}<br>{% endif %}
+  {% if page.translated_by %}Перевод: {% if page.translated_by == "К. Кирдан" %}<a href="{{ 'index.html' | relative_url }}">{{ page.translated_by }}</a>{% else %}{{ page.translated_by | join: ", " }}{% endif %}<br>{% endif %}
   {% if page.edited_by %}Редактура: {{ page.edited_by | join: ", " }}{% if page.edited_what %} ({{ page.edited_what }}){% endif %}<br>{% endif %}
   {% if page.last_update %}Последнее обновление: {{ page.last_update }}<br>{% endif %}
   {% if page.edit %}Предложить правки можно <a href="{{ page.edit }}">здесь</a><br>{% endif %}
@@ -20,6 +20,6 @@ layout: default
 
 <div style="padding-top: 0.5rem; padding-bottom: 1rem; margin-top: 0.2rem; border-top: 1px solid #eee;">
   <p style="text-align: center; font-size:18px;">
-  <a href="{{ '/translations/index.html' | absolute_url }}" style="color: #505050;">другие переводы</a>
+  <a href="{{ '/translations/index.html' | relative_url }}" style="color: #505050;">другие переводы</a>
   </p>
 </div>
