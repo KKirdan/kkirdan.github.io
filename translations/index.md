@@ -9,12 +9,13 @@ title: "Переводы"
 * [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
 * [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
 * [Один триллион рыб \| One Trillion Fish](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) (2012-2020)
-* [Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из "[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)", 2011-2019)
+* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из "[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)", 2011-2019)
 * [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
 * [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
 * [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 **Магнус Виндинг \| Magnus Vinding:**
+* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги "Compassionate Purpose: Personal Inspiration for a Better World") (2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
