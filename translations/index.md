@@ -35,13 +35,14 @@ title: "Переводы"
 * [Нет универсально убедительных аргументов \| No Universally Compelling Arguments](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) (2008)
 * [Суть твоя — физика \| Thou Art Physics](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) (2008)
 
-**Дэвид Пирс \| David Pearce:**
-* [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
-* [Квантовая этика? Страдания в мультивселенной \| Quantum Ethics? Suffering in the Multiverse](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
-
 **Лукас Глор \| Lukas Gloor:**
 * [Цели и средства \| Means and Ends](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) (2015)
 * [Этика и объективность \| Ethics and Objectivity](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) (2014)
+* [Что такое жизнь? \| What Is Life?](https://reducingsuffering.github.io/lukas-gloor-what-is-life.html) (2014)
+
+**Дэвид Пирс \| David Pearce:**
+* [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
+* [Квантовая этика? Страдания в мультивселенной \| Quantum Ethics? Suffering in the Multiverse](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
 
 **Майкл Делло-Иаково \| Michael Dello-Iacovo:**
 * [Почему веганы так много говорят о веганстве? \| Why do vegans talk about veganism so much?](https://reducingsuffering.github.io/michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much.html) (2018)
