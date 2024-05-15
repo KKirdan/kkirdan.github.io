@@ -65,6 +65,7 @@ title: "Переводы"
 
 **Сайт Arbital:**
 * [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
+* [Омега (инопланетный философ-тролль) \|  Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
 
 **Прочее:**
 * _9Mother9Horse9Eyes9, [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
