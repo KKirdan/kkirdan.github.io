@@ -30,21 +30,10 @@ title: "Переводы"
 * [Вещи, которые отталкивают внимание \| Stuff that repels the attention](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html) (2019)
 * [Пустой, открытый и закрытый индивидуализм \| Empty, Open and Closed Individualism](https://reducingsuffering.github.io/manu-herran-empty-open-and-closed-individualism.html) (2018), редактура
 
-**Майкл Делло-Иаково \| Michael Dello-Iacovo:**
-* [Почему веганы так много говорят о веганстве? \| Why do vegans talk about veganism so much?](https://reducingsuffering.github.io/michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much.html) (2018)
-* [От утилитариста до аболициониста и назад через месяц \| From utilitarian to abolitionist and back in a month](https://reducingsuffering.github.io/michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month.html) (2016)
-
-**Рон Андерсон \| Ron Anderson:**
-* [Зачем размышлять о страданиях \| Contemplation of Suffering and Compassion](https://reducingsuffering.github.io/ron-anderson-contemplation-of-suffering-and-compassion.html) (2015)
-* [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
-
 **Элиезер Юдковский \| Eliezer Yudkowsky:**
 * [Жить во многих мирах \| Living in Many Worlds](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) (2008)
 * [Нет универсально убедительных аргументов \| No Universally Compelling Arguments](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) (2008)
 * [Суть твоя — физика \| Thou Art Physics](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) (2008)
-  
-**Скотт Александер \| Scott Alexander:**
-* [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
 
 **Дэвид Пирс \| David Pearce:**
 * [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
@@ -53,6 +42,17 @@ title: "Переводы"
 **Лукас Глор \| Lukas Gloor:**
 * [Цели и средства \| Means and Ends](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) (2015)
 * [Этика и объективность \| Ethics and Objectivity](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) (2014)
+
+**Майкл Делло-Иаково \| Michael Dello-Iacovo:**
+* [Почему веганы так много говорят о веганстве? \| Why do vegans talk about veganism so much?](https://reducingsuffering.github.io/michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much.html) (2018)
+* [От утилитариста до аболициониста и назад через месяц \| From utilitarian to abolitionist and back in a month](https://reducingsuffering.github.io/michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month.html) (2016)
+
+**Рон Андерсон \| Ron Anderson:**
+* [Зачем размышлять о страданиях \| Contemplation of Suffering and Compassion](https://reducingsuffering.github.io/ron-anderson-contemplation-of-suffering-and-compassion.html) (2015)
+* [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
+  
+**Скотт Александер \| Scott Alexander:**
+* [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
 
 **Джон Стюарт Милль \| John Stuart Mill:**
 * [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
