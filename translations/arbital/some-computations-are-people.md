@@ -3,8 +3,10 @@ layout: translation
 title: Некоторые вычисления являются людьми
 author: "Элиезер Юдковский"
 source: Arbital
+original_title: Some computations are people
 original_date: 2015.11.13
 original: https://arbital.com/p/some_computations_are_people/
+source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/some_computations_are_people
 translated_by: К. Кирдан
 translated_when: 2024.05.15

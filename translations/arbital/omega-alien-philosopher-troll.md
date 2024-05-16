@@ -3,8 +3,10 @@ layout: translation
 title: Омега (инопланетный философ-тролль)
 author: "Элиезер Юдковский"
 source: Arbital
+original_title: Omega (alien philosopher-troll)
 original_date: 2016.07.11
 original: https://arbital.com/p/omega_troll/
+source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/omega_troll
 translated_by: К. Кирдан
 translated_when: 2024.05.15

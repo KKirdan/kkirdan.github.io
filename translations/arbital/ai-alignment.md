@@ -3,8 +3,10 @@ layout: translation
 title: Согласование ИИ
 author: "Элиезер Юдковский"
 source: Arbital
+original_title: AI alignment
 original_date: 2015.03.27
 original: https://arbital.com/p/ai_alignment/
+source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/ai_alignment
 translated_by: К. Кирдан
 translated_when: 2024.05.16

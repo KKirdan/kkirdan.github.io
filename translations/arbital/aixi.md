@@ -3,8 +3,10 @@ layout: translation
 title: AIXI
 source: Arbital
 author: "Элиезер Юдковский"
+original_title: AIXI
 original_date: 2015.08.05
 original: https://arbital.com/p/AIXI/
+source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/AIXI
 translated_by: К. Кирдан
 translated_when: 2024.05.16

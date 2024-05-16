@@ -3,8 +3,10 @@ layout: translation
 title: Принцип Винджа
 source: Arbital
 author: "Элиезер Юдковский"
+original_title: "Vinge's Principle"
 original_date: 2015.12.19
 original: https://arbital.com/p/Vinge_principle/
+source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/Vinge_principle
 translated_by: К. Кирдан
 translated_when: 2024.05.16
