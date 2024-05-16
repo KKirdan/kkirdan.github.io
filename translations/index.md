@@ -17,7 +17,7 @@ title: "Переводы"
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
-* **[Сайт Arbital](#Arbital)** (8 переводов)
+* **[Сайт Arbital](#Arbital)** (11 переводов)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
