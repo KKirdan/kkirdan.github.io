@@ -14,3 +14,7 @@ title: "Переводы с Arbital"
 * [AIXI](arbital/aixi.html)
 * [Индукция Соломонова \| Solomonoff induction](arbital/solomonoff-induction.html)
 * [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
+
+---
+
+Также см. [статьи с Арбитала](https://lesswrong.ru/node/363) на русскоязычном сайте LessWrong.
