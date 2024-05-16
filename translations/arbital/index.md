@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Переводы с Arbital"
+redirect: https://kkirdan.github.io/translations/index.html#Arbital
 ---
 Здесь размещены ссылки на переводы статей с сайта [Arbital](https://arbital.com/), которыми я занимался.
 
