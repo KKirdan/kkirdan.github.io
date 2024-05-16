@@ -7,7 +7,7 @@ title: "Переводы"
 ##  Содержание
 * **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (8 переводов)
 * **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (7 переводов)
-* **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (6 переводов)
+* **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
 * **[Дэвид Пирс \| David Pearce](#David_Pearce)** (2 перевода)
