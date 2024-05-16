@@ -65,7 +65,7 @@ title: "Переводы"
 **Саймон Кнутссон \| Simon Knutsson:**
 * [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
 
-<a name="Arbital"></a>
+<a id="Arbital"></a>
 **Сайт Arbital:**
 * [Согласование ИИ \| AI alignment](arbital/ai-alignment.html)
 * [Принцип Винджа \| Vinge's principle](arbital/vinge-principle.html)
