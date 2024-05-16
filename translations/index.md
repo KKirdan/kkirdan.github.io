@@ -105,6 +105,7 @@ title: "Переводы"
 * [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
 * [AIXI](arbital/aixi.html)
 * [Индукция Соломонова \| Solomonoff induction](arbital/solomonoff-induction.html)
+* [Рефлексивная стабильность \| Reflective stability)](arbital/reflective-stability.html)
 * [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
 
 ---
