@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1 class="post-title" style="margin-top: 0.2em">{{ page.title }}</h1>
-<div><b>{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}{{ page.source }}</b></div>
+<div><b>{% unless page.source=="Arbital" %}{{ page.original_date | join: " — " }} &#8195 {{ page.authors | join: ", " }}{% endunless %}{{ page.source }}</b></div>
 <hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
 
 {{ content }}
