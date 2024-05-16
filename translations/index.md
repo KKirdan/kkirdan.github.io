@@ -17,7 +17,7 @@ title: "Переводы"
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
-* **[Сайт Arbital](#Arbital)** (7 переводов)
+* **[Сайт Arbital](#Arbital)** (8 переводов)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
@@ -105,7 +105,7 @@ title: "Переводы"
 * [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
 * [AIXI](arbital/aixi.html)
 * [Индукция Соломонова \| Solomonoff induction](arbital/solomonoff-induction.html)
-* [Рефлексивная стабильность \| Reflective stability)](arbital/reflective-stability.html)
+* [Рефлексивная стабильность \| Reflective stability](arbital/reflective-stability.html)
 * [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
 
 ---
