@@ -20,6 +20,7 @@ title: "Переводы"
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
+* [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
 
 **Ману Эрран \| Manu Herrán:**
@@ -66,8 +67,9 @@ title: "Переводы"
 
 **Сайт Arbital:**
 * [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
-* [Омега (инопланетный философ-тролль) \|  Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
+* [Принцип Винджа \| Vinge's principle](arbital/vinge-principle.html)
 * [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
+* [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
 
 **Прочее:**
 * _9Mother9Horse9Eyes9, [Интерфейс из плоти: Чем является Мать \| What Mother is](https://vk.com/@-188637166-flesh-interface-what-mother-is) (2018)
