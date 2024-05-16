@@ -71,7 +71,7 @@ title: "Переводы"
 * [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
 * [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
 * [AIXI](arbital/aixi.html)
-* [Solomonoff induction](arbital/solomonoff-induction.html)
+* [Индукция Соломонова \| Solomonoff induction](arbital/solomonoff-induction.html)
 * [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
 
 **Прочее:**
