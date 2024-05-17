@@ -28,7 +28,7 @@ license:
 <img src="{{ 'assets/images/arbital-some-computations-are-people.jpg' | relative_url }}"/>
 </center>
 
-Проголосовали за справедливость этого утверждения (21 голос):
+Проголосовали за справедливость этого утверждения с указанной вероятностью (21 голос):
 - [Jackson Friess](https://arbital.com/p/7tk/): 10% (2017.02.14)
 - [Benjy Forstadt](https://arbital.com/p/3zp/): 60% (2016.06.03)
 - [M Yass](https://arbital.com/p/202/): 76% (2016.02.24)
