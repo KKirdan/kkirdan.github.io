@@ -17,7 +17,7 @@ title: "Переводы"
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
-* **[Сайт Arbital](#Arbital)** (13 переводов)
+* **[Сайт Arbital](#Arbital)** (14 переводов)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
@@ -105,6 +105,7 @@ title: "Переводы"
 * [Принцип Винджа \| Vinge's principle](arbital/vinge-principle.html)
 * [Закон Винджа \| Vinge's Law](arbital/vinge-law.html)
 * [Винджевская рефлексия \| Vingean reflection](arbital/vingean-reflection.html)
+* [Винджевская неопределенность \| Vingean uncertainty](arbital/vingean-uncertainty.html)
 * [Рефлексивная устойчивость \| Reflective stability](arbital/reflective-stability.html)
 * [Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы \| Consequentialist preferences are reflectively stable by default](arbital/consequentialist-preferences-are-reflectively-stable-by-default.html)
 * [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
