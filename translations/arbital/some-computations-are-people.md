@@ -25,7 +25,7 @@ license:
 ---
 
 <center>
-<img src="{ 'assets/images/arbital-some-computations-are-people.jpg' | relative_url }"/>
+<img src="{{ 'assets/images/arbital-some-computations-are-people.jpg' | relative_url }}"/>
 </center>
 
 Проголосовали за справедливость этого утверждения (21 голос):
