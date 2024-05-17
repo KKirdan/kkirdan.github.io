@@ -1,11 +1,9 @@
 ---
-layout: translation
+layout: arbital
 title: Максимизатор скрепок
-source: Arbital
 original_title: Paperclip maximizer
 original_date: 2016.07.11
 original: https://arbital.com/p/paperclip_maximizer/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/paperclip_maximizer
 translated_by: К. Кирдан
 translated_when: 2024.05.13

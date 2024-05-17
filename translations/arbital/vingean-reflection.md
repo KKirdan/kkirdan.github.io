@@ -1,12 +1,10 @@
 ---
-layout: translation
+layout: arbital
 title: Винджевская рефлексия
 author: "Элиезер Юдковский"
-source: Arbital
 original_title: Vingean reflection
 original_date: 2015.12.19
 original: https://arbital.com/p/Vingean_reflection/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/Vingean_reflection
 translated_by: К. Кирдан
 translated_when: 2024.05.17

@@ -1,12 +1,10 @@
 ---
-layout: translation
+layout: arbital
 title: Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы
-source: Arbital
 author: "Элиезер Юдковский"
 original_title: Consequentialist preferences are reflectively stable by default
 original_date: 2016.05.21
 original: https://arbital.com/p/preference_stability/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/preference_stability
 translated_by: К. Кирдан
 translated_when: 2024.05.16

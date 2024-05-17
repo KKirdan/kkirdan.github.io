@@ -1,12 +1,10 @@
 ---
-layout: translation
+layout: arbital
 title: Индукция Соломонова
-source: Arbital
 author: "Элиезер Юдковский"
 original_title: Solomonoff induction
 original_date: 2015.08.05
 original: https://arbital.com/p/solomonoff_induction/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/solomonoff_induction
 translated_by: К. Кирдан
 translated_when: 2024.05.16

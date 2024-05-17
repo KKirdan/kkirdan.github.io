@@ -1,12 +1,10 @@
 ---
-layout: translation
+layout: arbital
 title: Рефлексивная устойчивость
-source: Arbital
 author: "Элиезер Юдковский"
 original_title: Reflective stability
 original_date: 2015.12.29
 original: https://arbital.com/p/reflective_stability/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/reflective_stability
 translated_by: К. Кирдан
 translated_when: 2024.05.16

@@ -1,12 +1,10 @@
 ---
-layout: translation
+layout: arbital
 title: Терминальные и инструментальные цели / ценности / предпочтения
-source: Arbital
 author: "Элиезер Юдковский"
 original_title: Terminal versus instrumental goals / values / preferences
 original_date: 2015.12.18
 original: https://arbital.com/p/terminal_vs_instrumental/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/terminal_vs_instrumental
 translated_by: К. Кирдан
 translated_when: 2024.05.16

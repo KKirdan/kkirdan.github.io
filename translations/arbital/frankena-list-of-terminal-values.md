@@ -1,11 +1,9 @@
 ---
-layout: translation
+layout: arbital
 title: Список терминальных ценностей от Уильяма Франкены
-source: Arbital
 original_title: "William Frankena's list of terminal values"
 original_date: 2016.06.07
 original: https://arbital.com/p/frankena_goods/
-source2: GreaterWrong
 original2: https://arbital.greaterwrong.com/p/frankena_goods
 translated_by: К. Кирдан
 translated_when: 2024.05.16
