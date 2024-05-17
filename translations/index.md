@@ -17,7 +17,7 @@ title: "Переводы"
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
-* **[Сайт Arbital](#Arbital)** (12 переводов)
+* **[Сайт Arbital](#Arbital)** (13 переводов)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
@@ -103,6 +103,7 @@ title: "Переводы"
 * [Терминальные и инструментальные цели / ценности / предпочтения \| Terminal versus instrumental goals / values / preferences](arbital/terminal-vs-instrumental.html)
 * [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
 * [Принцип Винджа \| Vinge's principle](arbital/vinge-principle.html)
+* [Закон Винджа \| Vinge's Law](arbital/vinge-law.html)
 * [Винджевская рефлексия \| Vingean reflection](arbital/vingean-reflection.html)
 * [Рефлексивная устойчивость \| Reflective stability](arbital/reflective-stability.html)
 * [Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы \| Consequentialist preferences are reflectively stable by default](arbital/consequentialist-preferences-are-reflectively-stable-by-default.html)
