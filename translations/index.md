@@ -99,20 +99,20 @@ title: "Переводы"
 
 <a id="Arbital"></a>
 **Сайт Arbital:**
-* [Согласование ИИ \| AI alignment](arbital/ai-alignment.html)
-* [Терминальные и инструментальные цели / ценности / предпочтения \| Terminal versus instrumental goals / values / preferences](arbital/terminal-vs-instrumental.html)
-* [Максимизатор скрепок \| Paperclip maximizer](arbital/paperclip-maximizer.html)
-* [Принцип Винджа \| Vinge's principle](arbital/vinge-principle.html)
-* [Закон Винджа \| Vinge's Law](arbital/vinge-law.html)
-* [Винджевская рефлексия \| Vingean reflection](arbital/vingean-reflection.html)
-* [Винджевская неопределенность \| Vingean uncertainty](arbital/vingean-uncertainty.html)
-* [Рефлексивная устойчивость \| Reflective stability](arbital/reflective-stability.html)
-* [Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы \| Consequentialist preferences are reflectively stable by default](arbital/consequentialist-preferences-are-reflectively-stable-by-default.html)
-* [Некоторые вычисления являются людьми \| Some computations are people](arbital/some-computations-are-people.html)
-* [AIXI](arbital/aixi.html)
-* [Индукция Соломонова \| Solomonoff induction](arbital/solomonoff-induction.html)
-* [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](arbital/omega-alien-philosopher-troll.html)
-* [Список терминальных ценностей от Уильяма Франкены \| William Frankena's list of terminal values](arbital/frankena-list-of-terminal-values.html)
+* [Согласование ИИ \| AI alignment](https://arbital-ru.github.io/p/ai_alignment/)
+* [Терминальные и инструментальные цели / ценности / предпочтения \| Terminal versus instrumental goals / values / preferences](https://arbital-ru.github.io/p/terminal_vs_instrumental/)
+* [Максимизатор скрепок \| Paperclip maximizer](https://arbital-ru.github.io/p/paperclip_maximizer/)
+* [Принцип Винджа \| Vinge's principle](https://arbital-ru.github.io/p/Vinge_principle/)
+* [Закон Винджа \| Vinge's Law](https://arbital-ru.github.io/p/Vinge_law/)
+* [Винджевская рефлексия \| Vingean reflection](https://arbital-ru.github.io/p/Vingean_reflection/)
+* [Винджевская неопределенность \| Vingean uncertainty](https://arbital-ru.github.io/p/Vingean_uncertainty/)
+* [Рефлексивная устойчивость \| Reflective stability](https://arbital-ru.github.io/p/reflective_stability/)
+* [Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы \| Consequentialist preferences are reflectively stable by default](https://arbital-ru.github.io/p/preference_stability/)
+* [Некоторые вычисления являются людьми \| Some computations are people](https://arbital-ru.github.io/p/some_computations_are_people/)
+* [AIXI](https://arbital-ru.github.io/p/AIXI/)
+* [Индукция Соломонова \| Solomonoff induction](https://arbital-ru.github.io/p/solomonoff_induction/)
+* [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](https://arbital-ru.github.io/p/omega_troll/)
+* [Список терминальных ценностей от Уильяма Франкены \| William Frankena's list of terminal values](https://arbital-ru.github.io/p/frankena_goods/)
 
 ---
 
