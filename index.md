@@ -16,9 +16,11 @@ nav_id: 0
 
 <hr style="margin: 10px">
 
-Помимо этого сайта я работаю над следующим проектом:
+В основном я сейчас работаю над следующими проектами:
 
 {% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" icon="https://reducingsuffering.github.io/assets/images/favicon.ico" %}
+
+{% include project-entry.html title="Arbital на русском" url="https://arbital-ru.github.io/" text="переводы текстов с сайта arbital.com, посвященного искусственному интеллекту и математике" icon="https://arbital-ru.github.io/assets/images/favicon.ico" %}
 
 <hr style="margin: 10px">
 
