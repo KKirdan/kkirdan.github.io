@@ -5,6 +5,7 @@ title: "Переводы"
 Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал.
 
 ##  Содержание
+* **[Сайт Arbital](https://arbital-ru.github.io/)** (более 40 переводов)
 * **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (8 переводов)
 * **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
@@ -17,7 +18,6 @@ title: "Переводы"
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
-* **[Сайт Arbital](#Arbital)** (14 переводов)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
@@ -94,25 +94,6 @@ title: "Переводы"
 <a id="Simon_Knutsson"></a>
 **Саймон Кнутссон \| Simon Knutsson:**
 * [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
-
----
-
-<a id="Arbital"></a>
-**Сайт Arbital:**
-* [Согласование ИИ \| AI alignment](https://arbital-ru.github.io/p/ai_alignment/)
-* [Терминальные и инструментальные цели / ценности / предпочтения \| Terminal versus instrumental goals / values / preferences](https://arbital-ru.github.io/p/terminal_vs_instrumental/)
-* [Максимизатор скрепок \| Paperclip maximizer](https://arbital-ru.github.io/p/paperclip_maximizer/)
-* [Принцип Винджа \| Vinge's principle](https://arbital-ru.github.io/p/Vinge_principle/)
-* [Закон Винджа \| Vinge's Law](https://arbital-ru.github.io/p/Vinge_law/)
-* [Винджевская рефлексия \| Vingean reflection](https://arbital-ru.github.io/p/Vingean_reflection/)
-* [Винджевская неопределенность \| Vingean uncertainty](https://arbital-ru.github.io/p/Vingean_uncertainty/)
-* [Рефлексивная устойчивость \| Reflective stability](https://arbital-ru.github.io/p/reflective_stability/)
-* [Консеквенциалистские предпочтения по умолчанию рефлексивно устойчивы \| Consequentialist preferences are reflectively stable by default](https://arbital-ru.github.io/p/preference_stability/)
-* [Некоторые вычисления являются людьми \| Some computations are people](https://arbital-ru.github.io/p/some_computations_are_people/)
-* [AIXI](https://arbital-ru.github.io/p/AIXI/)
-* [Индукция Соломонова \| Solomonoff induction](https://arbital-ru.github.io/p/solomonoff_induction/)
-* [Омега (инопланетный философ-тролль) \| Omega (alien philosopher-troll)](https://arbital-ru.github.io/p/omega_troll/)
-* [Список терминальных ценностей от Уильяма Франкены \| William Frankena's list of terminal values](https://arbital-ru.github.io/p/frankena_goods/)
 
 ---
 
