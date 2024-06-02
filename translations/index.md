@@ -5,7 +5,7 @@ title: "Переводы"
 Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал.
 
 ##  Содержание
-* **[Сайт Arbital](https://arbital-ru.github.io/)** (более 40 переводов)
+* **[Сайт arbital.com](#Arbital)** (более 50 переводов)
 * **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (8 переводов)
 * **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
@@ -21,6 +21,9 @@ title: "Переводы"
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
+<a id="Arbital"></a>
+**Сайт arbital.com:**
+[Более 50 переводов](https://arbital-ru.github.io/) малого объема, перечислять лень.
 
 <a id="Brian_Tomasik"></a>
 **Брайан Томасик \| Brian Tomasik:**
@@ -87,7 +90,7 @@ title: "Переводы"
 **Джон Стюарт Милль \| John Stuart Mill:**
 * [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
 
-<a id="Patrick_Forber"></a>
+<a id="Patri**Сайт arbital.com:**ck_Forber"></a>
 **Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead:**
 * [Наказание — скорее злоба, чем общее благо \| Punishment isn’t about the common good: it’s about spite](https://reducingsuffering.github.io/patrick-forber-punishment-isnt-about-the-common-good-its-about-spite.html) (2018), редактура
 
