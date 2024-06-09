@@ -34,6 +34,7 @@ title: "Переводы"
 * [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из "[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)", 2011-2019)
 * [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
 * [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
+* [Вегетарианский выбор что-то меняет? \| Does Vegetarianism Make a Difference?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) (2006-2014)
 * [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 <a id="Magnus_Vinding"></a>
@@ -43,6 +44,7 @@ title: "Переводы"
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
+* [Список источников против жесткого взлета ИИ \| A Contra AI FOOM Reading List](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) (2017-2023)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
 
