@@ -6,8 +6,8 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 50 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (8 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (7 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (9 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (8 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
