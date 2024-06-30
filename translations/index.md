@@ -6,8 +6,8 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 50 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (9 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (8 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (10 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (10 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
@@ -27,6 +27,7 @@ title: "Переводы"
 
 <a id="Brian_Tomasik"></a>
 **Брайан Томасик \| Brian Tomasik:**
+* [Зачем веганам думать о страданиях в дикой природе \| Why Vegans Should Care about Suffering in Nature](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) (2015-2017)
 * [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
 * [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
 * [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
@@ -44,7 +45,9 @@ title: "Переводы"
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
+* [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
 * [Список источников против жесткого взлета ИИ \| A Contra AI FOOM Reading List](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) (2017-2023)
+* [Дерево должного — схема приоритизации (направлений) \|  The Tree of Ought — A (Cause) Prioritization Framework](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) (2016)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
 
