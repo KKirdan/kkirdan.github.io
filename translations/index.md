@@ -45,7 +45,7 @@ title: "Переводы"
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
-* [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
+* [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
 * [Список источников против жесткого взлета ИИ \| A Contra AI FOOM Reading List](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) (2017-2023)
 * [Дерево должного — схема приоритизации (направлений) \|  The Tree of Ought — A (Cause) Prioritization Framework](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) (2016)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
