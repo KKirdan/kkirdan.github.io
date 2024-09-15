@@ -6,14 +6,16 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 50 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (10 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (10 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (11 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (12 переводов)
+* **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (4 перевода)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
 * **[Дэвид Пирс \| David Pearce](#David_Pearce)** (2 перевода)
 * **[Майкл Делло-Иаково \| Michael Dello-Iacovo](#Michael_Dello-Iacovo)** (2 перевода)
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
+* **[Томас Метцингер \| Thomas Metzinger](#Thomas_Metzinger)** (1 редактура)
 * **[Скотт Александер \| Scott Alexander](#Scott_Alexander)** (1 перевод)
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
@@ -32,24 +34,34 @@ title: "Переводы"
 * [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
 * [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
 * [Один триллион рыб \| One Trillion Fish](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) (2012-2020)
-* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из "[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)", 2011-2019)
+* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)», 2011-2019)
 * [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
 * [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
+* [Ожидаемая ценность информации \| Expected Value of Information](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) (2007)
 * [Вегетарианский выбор что-то меняет? \| Does Vegetarianism Make a Difference?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) (2006-2014)
 * [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 <a id="Magnus_Vinding"></a>
 **Магнус Виндинг \| Magnus Vinding:**
-* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги "[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058/edit)", 2024)
+* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги «[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058)», 2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
+* [Страдание и счастье: морально симметричны или ортогональны? \| Suffering and happiness: Morally symmetric or orthogonal?](https://reducingsuffering.github.io/magnus-vinding-suffering-and-happiness-morally-symmetric-or-orthogonal.html) (2020)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
 * [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
+* [Расширение морального круга может увеличить будущие страдания \| Moral Circle Expansion Might Increase Future Suffering](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) (2018)
 * [Список источников против жесткого взлета ИИ \| A Contra AI FOOM Reading List](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) (2017-2023)
 * [Дерево должного — схема приоритизации (направлений) \|  The Tree of Ought — A (Cause) Prioritization Framework](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) (2016)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
+
+<a id="Tobias_Baumann"></a>
+**Тобиас Бауман \| Tobias Baumann:**
+* [Мысли о колонизации космоса \| Thoughts on space colonisation](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-space-colonisation.html) (2020)
+* [Мысли о лонгтермизме \| Thoughts on longtermism](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-longtermism.html) (2019)
+* [Важность далекого будущего \| The Importance of the Far Future](https://reducingsuffering.github.io/tobias-baumann-the-importance-of-the-far-future.html) (2018)
+* [Альтруизм, числа и промышленное животноводство \| Altruism, Numbers, and Factory Farms](https://reducingsuffering.github.io/tobias-baumann-altruism-numbers-and-factory-farms.html) (2018)
 
 <a id="Manu_Herran"></a>
 **Ману Эрран \| Manu Herrán:**
@@ -86,7 +98,11 @@ title: "Переводы"
 **Рон Андерсон \| Ron Anderson:**
 * [Зачем размышлять о страданиях \| Contemplation of Suffering and Compassion](https://reducingsuffering.github.io/ron-anderson-contemplation-of-suffering-and-compassion.html) (2015)
 * [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
-  
+ 
+<a id="Thomas_Metzinger"></a>
+**Томас Метцингер \| Thomas Metzinger:**
+* [Введение в проблему отрицательной синтетической феноменологии \| The Problem of Negative Synthetic Phenomenology. Introduction](https://reducingsuffering.github.io/thomas-metzinger-1.html) (фрагмент из «[Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.worldscientific.com/doi/10.1142/S270507852150003X)», 2021), редактура
+
 <a id="Scott_Alexander"></a>
 **Скотт Александер \| Scott Alexander:**
 * [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог \| NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://vk.com/@kirdan-slate-star-codex-2020-06-22) (2020)
@@ -95,7 +111,7 @@ title: "Переводы"
 **Джон Стюарт Милль \| John Stuart Mill:**
 * [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
 
-<a id="Patri**Сайт arbital.com:**ck_Forber"></a>
+<a id="Patrick_Forber"></a>
 **Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead:**
 * [Наказание — скорее злоба, чем общее благо \| Punishment isn’t about the common good: it’s about spite](https://reducingsuffering.github.io/patrick-forber-punishment-isnt-about-the-common-good-its-about-spite.html) (2018), редактура
 
