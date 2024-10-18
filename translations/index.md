@@ -5,27 +5,27 @@ title: "Переводы"
 Здесь размещены ссылки на переводы с английского, которые я выполнял сам или редактировал.
 
 ##  Содержание
-* **[Сайт arbital.com](#Arbital)** (более 50 переводов)
+* **[Сайт arbital.com](#Arbital)** (более 60 переводов)
 * **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (11 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (12 переводов)
-* **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (4 перевода)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (15 переводов)
+* **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
-* **[Дэвид Пирс \| David Pearce](#David_Pearce)** (2 перевода)
+* **[Дэвид Пирс \| David Pearce](#David_Pearce)** (3 перевода)
 * **[Майкл Делло-Иаково \| Michael Dello-Iacovo](#Michael_Dello-Iacovo)** (2 перевода)
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
 * **[Томас Метцингер \| Thomas Metzinger](#Thomas_Metzinger)** (1 редактура)
 * **[Скотт Александер \| Scott Alexander](#Scott_Alexander)** (1 перевод)
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
-* **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (1 перевод)
+* **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
 <a id="Arbital"></a>
 **Сайт arbital.com:**
-[Более 50 переводов](https://arbital-ru.github.io/) малого объема, перечислять лень.
+[Более 60 переводов](https://arbital-ru.github.io/) малого объема.
 
 <a id="Brian_Tomasik"></a>
 **Брайан Томасик \| Brian Tomasik:**
@@ -44,10 +44,13 @@ title: "Переводы"
 <a id="Magnus_Vinding"></a>
 **Магнус Виндинг \| Magnus Vinding:**
 * [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги «[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058)», 2024)
+* [От ИИ до удаленных зондов \| From AI to distant probes](https://reducingsuffering.github.io/magnus-vinding-from-ai-to-distant-probes.html) (2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
 * [Этика противодействия страданию и важность счастья \| Suffering-focused ethics and the importance of happiness](https://reducingsuffering.github.io/magnus-vinding-suffering-focused-ethics-and-the-importance-of-happiness.html) (2021)
+* [Некоторые причины не ожидать взрывного роста \| Some reasons not to expect a growth explosion](https://reducingsuffering.github.io/magnus-vinding-some-reasons-not-to-expect-a-growth-explosion.html) (2021)
 * [Страдание и счастье: морально симметричны или ортогональны? \| Suffering and happiness: Morally symmetric or orthogonal?](https://reducingsuffering.github.io/magnus-vinding-suffering-and-happiness-morally-symmetric-or-orthogonal.html) (2020)
+* [Когда машины улучшают машины \| When Machines Improve Machines](https://reducingsuffering.github.io/magnus-vinding-when-machines-improve-machines.html) (2020)
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
 * [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
 * [Расширение морального круга может увеличить будущие страдания \| Moral Circle Expansion Might Increase Future Suffering](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) (2018)
@@ -62,6 +65,9 @@ title: "Переводы"
 * [Мысли о лонгтермизме \| Thoughts on longtermism](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-longtermism.html) (2019)
 * [Важность далекого будущего \| The Importance of the Far Future](https://reducingsuffering.github.io/tobias-baumann-the-importance-of-the-far-future.html) (2018)
 * [Альтруизм, числа и промышленное животноводство \| Altruism, Numbers, and Factory Farms](https://reducingsuffering.github.io/tobias-baumann-altruism-numbers-and-factory-farms.html) (2018)
+* [Против видовой дискриминации \| The Case Against Speciesism](https://reducingsuffering.github.io/tobias-baumann-the-case-against-speciesism.html) (2018)
+* [Краткий обзор на работу Эрика Дрекслера по рефреймингу безопасности ИИ \| Summary of Eric Drexler’s work on reframing AI safety](https://reducingsuffering.github.io/tobias-baumann-summary-of-eric-drexlers-work-on-reframing-ai-safety.html) (2017-2020)
+* [S-риски: Введение \| S-risks: An introduction](https://reducingsuffering.github.io/tobias-baumann-s-risks-an-introduction.html) (2017)
 
 <a id="Manu_Herran"></a>
 **Ману Эрран \| Manu Herrán:**
@@ -87,6 +93,7 @@ title: "Переводы"
 <a id="David_Pearce"></a>
 **Дэвид Пирс \| David Pearce:**
 * [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html), 2013)
+* [Перепрограммирование хищников \| Reprogramming Predators](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) (2009-2015)
 * [Квантовая этика? Страдания в мультивселенной \| Quantum Ethics? Suffering in the Multiverse](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
 
 <a id="Michael_Dello-Iacovo"></a>
@@ -117,6 +124,7 @@ title: "Переводы"
 
 <a id="Simon_Knutsson"></a>
 **Саймон Кнутссон \| Simon Knutsson:**
+* [Насколько хороша или плоха жизнь насекомого? \| How Good or Bad Is the Life of an Insect?](https://reducingsuffering.github.io/simon-knutsson-how-good-or-bad-is-the-life-of-an-insect.html) (2017-2018)
 * [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
 
 ---
