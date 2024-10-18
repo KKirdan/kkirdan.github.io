@@ -6,8 +6,8 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 60 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (11 переводов)
 * **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (15 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (11 переводов)
 * **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
@@ -15,31 +15,17 @@ title: "Переводы"
 * **[Дэвид Пирс \| David Pearce](#David_Pearce)** (3 перевода)
 * **[Майкл Делло-Иаково \| Michael Dello-Iacovo](#Michael_Dello-Iacovo)** (2 перевода)
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
+* **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
 * **[Томас Метцингер \| Thomas Metzinger](#Thomas_Metzinger)** (1 редактура)
 * **[Скотт Александер \| Scott Alexander](#Scott_Alexander)** (1 перевод)
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
-* **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
 * **[Прочее](#Прочее)** (1 перевод)
 
 ---
 <a id="Arbital"></a>
 **Сайт arbital.com:**
 [Более 60 переводов](https://arbital-ru.github.io/) малого объема.
-
-<a id="Brian_Tomasik"></a>
-**Брайан Томасик \| Brian Tomasik:**
-* [Зачем веганам думать о страданиях в дикой природе \| Why Vegans Should Care about Suffering in Nature](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) (2015-2017)
-* [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
-* [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
-* [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
-* [Один триллион рыб \| One Trillion Fish](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) (2012-2020)
-* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)», 2011-2019)
-* [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
-* [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
-* [Ожидаемая ценность информации \| Expected Value of Information](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) (2007)
-* [Вегетарианский выбор что-то меняет? \| Does Vegetarianism Make a Difference?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) (2006-2014)
-* [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 <a id="Magnus_Vinding"></a>
 **Магнус Виндинг \| Magnus Vinding:**
@@ -58,6 +44,20 @@ title: "Переводы"
 * [Дерево должного — схема приоритизации (направлений) \|  The Tree of Ought — A (Cause) Prioritization Framework](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) (2016)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
 * [Вред смерти \| The Harm of Death](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) (2015)
+
+<a id="Brian_Tomasik"></a>
+**Брайан Томасик \| Brian Tomasik:**
+* [Зачем веганам думать о страданиях в дикой природе \| Why Vegans Should Care about Suffering in Nature](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) (2015-2017)
+* [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
+* [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
+* [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
+* [Один триллион рыб \| One Trillion Fish](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) (2012-2020)
+* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)», 2011-2019)
+* [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
+* [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
+* [Ожидаемая ценность информации \| Expected Value of Information](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) (2007)
+* [Вегетарианский выбор что-то меняет? \| Does Vegetarianism Make a Difference?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) (2006-2014)
+* [Интуиция и разум \| Intuition and Reason](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) (2005-2013)
 
 <a id="Tobias_Baumann"></a>
 **Тобиас Бауман \| Tobias Baumann:**
@@ -105,10 +105,15 @@ title: "Переводы"
 **Рон Андерсон \| Ron Anderson:**
 * [Зачем размышлять о страданиях \| Contemplation of Suffering and Compassion](https://reducingsuffering.github.io/ron-anderson-contemplation-of-suffering-and-compassion.html) (2015)
 * [Страдания бедных \| Suffering of the Poor](https://reducingsuffering.github.io/ron-anderson-suffering-of-the-poor.html) (2014)
- 
+
+<a id="Simon_Knutsson"></a>
+**Саймон Кнутссон \| Simon Knutsson:**
+* [Насколько хороша или плоха жизнь насекомого? \| How Good or Bad Is the Life of an Insect?](https://reducingsuffering.github.io/simon-knutsson-how-good-or-bad-is-the-life-of-an-insect.html) (2017-2018)
+* [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
+
 <a id="Thomas_Metzinger"></a>
 **Томас Метцингер \| Thomas Metzinger:**
-* [Введение в проблему отрицательной синтетической феноменологии \| The Problem of Negative Synthetic Phenomenology. Introduction](https://reducingsuffering.github.io/thomas-metzinger-1.html) (фрагмент из «[Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://www.worldscientific.com/doi/10.1142/S270507852150003X)», 2021), редактура
+* [Искусственное страдание: аргумент в пользу глобального моратория на синтетическую феноменологию \| Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://reducingsuffering.github.io/thomas-metzinger-artificial-suffering.html) (2021), редактура
 
 <a id="Scott_Alexander"></a>
 **Скотт Александер \| Scott Alexander:**
@@ -121,11 +126,6 @@ title: "Переводы"
 <a id="Patrick_Forber"></a>
 **Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead:**
 * [Наказание — скорее злоба, чем общее благо \| Punishment isn’t about the common good: it’s about spite](https://reducingsuffering.github.io/patrick-forber-punishment-isnt-about-the-common-good-its-about-spite.html) (2018), редактура
-
-<a id="Simon_Knutsson"></a>
-**Саймон Кнутссон \| Simon Knutsson:**
-* [Насколько хороша или плоха жизнь насекомого? \| How Good or Bad Is the Life of an Insect?](https://reducingsuffering.github.io/simon-knutsson-how-good-or-bad-is-the-life-of-an-insect.html) (2017-2018)
-* [Довод в один абзац в пользу этики, сфокусированной на страдании \| The One-Paragraph Case for Suffering-Focused Ethics](https://reducingsuffering.github.io/simon-knutsson-the-one-paragraph-case-for-suffering-focused-ethics.html) (2016)
 
 ---
 
