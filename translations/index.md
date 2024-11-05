@@ -31,7 +31,7 @@ title: "Переводы"
 
 <a id="Magnus_Vinding"></a>
 **Магнус Виндинг \| Magnus Vinding:**
-* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги «[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058)», 2024)
+* [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги «Compassionate Purpose: Personal Inspiration for a Better World», 2024)
 * [Мысли о паузе в разработках ИИ \| Thoughts on AI pause](https://reducingsuffering.github.io/magnus-vinding-thoughts-on-ai-pause.html) (2024)
 * [От ИИ до удаленных зондов \| From AI to distant probes](https://reducingsuffering.github.io/magnus-vinding-from-ai-to-distant-probes.html) (2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
@@ -53,12 +53,12 @@ title: "Переводы"
 **Брайан Томасик \| Brian Tomasik:**
 * [Что не так с энтомофагией? (короткое интервью) \| What's Wrong with Entomophagy? (a short interview)](https://reducingsuffering.github.io/brian-tomasik-whats-wrong-with-entomophagy-a-short-interview.html) (2017)
 * [Зачем веганам думать о страданиях в дикой природе \| Why Vegans Should Care about Suffering in Nature](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) (2015-2017)
-* [Больше страданий: от контролируемого людьми ИИ или мятежного? \| Would a human-inspired AI or rogue AI cause more suffering?](https://reducingsuffering.github.io/brian-tomasik-2.html) (фрагмент из «[Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering)», 2014-2019)
+* [Больше страданий: от контролируемого людьми ИИ или мятежного? \| Would a human-inspired AI or rogue AI cause more suffering?](https://reducingsuffering.github.io/brian-tomasik-2.html) (фрагмент из «Artificial Intelligence and Its Implications for Future Suffering», 2014-2019)
 * [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
 * [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
 * [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
 * [Один триллион рыб \| One Trillion Fish](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) (2012-2020)
-* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering)», 2011-2019)
+* [Почему мы должны оставаться кооперативными \| Why we should remain cooperative](https://reducingsuffering.github.io/brian-tomasik-1.html) (фрагмент из «Risks of Astronomical Future Suffering», 2011-2019)
 * [Должны ли мы вмешиваться в природу? \| Should We Intervene in Nature?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) (2009-2016)
 * [Зачем максимизировать ожидаемую полезность? \| Why Maximize Expected Value?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) (2007-2016)
 * [Ожидаемая ценность информации \| Expected Value of Information](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) (2007)
@@ -139,7 +139,7 @@ title: "Переводы"
 
 <a id="John_Stuart_Mill"></a>
 **Джон Стюарт Милль \| John Stuart Mill:**
-* [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из "[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)", 1874-1904)
+* [Тезисы о природе](https://reducingsuffering.github.io/john-stuart-mill-1.html) (фрагмент из «[On Nature](https://www.lancaster.ac.uk/users/philosophy/texts/mill_on.htm)», 1874-1904)
 
 <a id="Patrick_Forber"></a>
 **Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead:**
