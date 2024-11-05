@@ -6,10 +6,11 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 60 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (15 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (11 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (17 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (13 переводов)
 * **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
+* **[Джим Бюлер \| Jim Buhler](#Jim_Buhler)** (5 переводов)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
 * **[Дэвид Пирс \| David Pearce](#David_Pearce)** (3 перевода)
@@ -17,6 +18,7 @@ title: "Переводы"
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
 * **[Томас Метцингер \| Thomas Metzinger](#Thomas_Metzinger)** (1 редактура)
+* **[Джон Басл & Эрик Швицгебель \| John Basl & Eric Schwitzgebel](#John_Basl)** (1 перевод)
 * **[Скотт Александер \| Scott Alexander](#Scott_Alexander)** (1 перевод)
 * **[Джон Стюарт Милль \| John Stuart Mill](#John_Stuart_Mill)** (1 перевод)
 * **[Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead](#Patrick_Forber)** (1 редактура)
@@ -30,6 +32,7 @@ title: "Переводы"
 <a id="Magnus_Vinding"></a>
 **Магнус Виндинг \| Magnus Vinding:**
 * [Фокус на том, что мы можем изменить \| Focusing on That Which We Can Change](https://reducingsuffering.github.io/magnus-vinding-1.html) (фрагмент из предстоящей книги «[Compassionate Purpose: Personal Inspiration for a Better World](https://docs.google.com/document/d/1tU8B0BqJnjKi12XNwUD3hAkLe4HPKrXwzCixFXr5058)», 2024)
+* [Мысли о паузе в разработках ИИ \| Thoughts on AI pause](https://reducingsuffering.github.io/magnus-vinding-thoughts-on-ai-pause.html) (2024)
 * [От ИИ до удаленных зондов \| From AI to distant probes](https://reducingsuffering.github.io/magnus-vinding-from-ai-to-distant-probes.html) (2024)
 * [Радикальная неуверенность насчет исходов необязательно влечет (столь же) радикальную неуверенность насчет стратегий \| Radical uncertainty about outcomes need not imply (similarly) radical uncertainty about strategies](https://reducingsuffering.github.io/magnus-vinding-strategic-uncertainty.html) (2022)
 * [Далеко не Омелас \| Far from Omelas](https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html) (2022)
@@ -40,6 +43,7 @@ title: "Переводы"
 * [Объясняя существование \| Explaining Existence](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) (2018-2023)
 * [Почему многомировая интерпретация может не иметь существенных этических последствий \| Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
 * [Расширение морального круга может увеличить будущие страдания \| Moral Circle Expansion Might Increase Future Suffering](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) (2018)
+* [Возможно ли согласование ИИ? \| Is AI Alignment Possible?](https://reducingsuffering.github.io/magnus-vinding-is-ai-alignment-possible.html) (2018)
 * [Список источников против жесткого взлета ИИ \| A Contra AI FOOM Reading List](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) (2017-2023)
 * [Дерево должного — схема приоритизации (направлений) \|  The Tree of Ought — A (Cause) Prioritization Framework](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) (2016)
 * [Приоритизация направлений \| Cause Prioritization](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) (2016)
@@ -47,7 +51,9 @@ title: "Переводы"
 
 <a id="Brian_Tomasik"></a>
 **Брайан Томасик \| Brian Tomasik:**
+* [Что не так с энтомофагией? (короткое интервью) \| What's Wrong with Entomophagy? (a short interview)](https://reducingsuffering.github.io/brian-tomasik-whats-wrong-with-entomophagy-a-short-interview.html) (2017)
 * [Зачем веганам думать о страданиях в дикой природе \| Why Vegans Should Care about Suffering in Nature](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) (2015-2017)
+* [Больше страданий: от контролируемого людьми ИИ или мятежного? \| Would a human-inspired AI or rogue AI cause more suffering?](https://reducingsuffering.github.io/brian-tomasik-2.html) (фрагмент из «[Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering)», 2014-2019)
 * [Умножит ли колонизация космоса страдания диких животных? \| Will Space Colonization Multiply Wild-Animal Suffering?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) (2014-2018)
 * [Мораль, движимая красотой \| Beauty-Driven Morality](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) (2013-2014)
 * [Омелас и колонизация космоса \| Omelas and Space Colonization](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) (2013-2017)
@@ -77,6 +83,14 @@ title: "Переводы"
 * [Зачем фокусироваться на уменьшении интенсивного страдания? \| Why to focus on reducing intense suffering?](https://reducingsuffering.github.io/manu-herran-why-to-focus-on-reducing-intense-suffering.html) (2019)
 * [Вещи, которые отталкивают внимание \| Stuff that repels the attention](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html) (2019)
 * [Пустой, открытый и закрытый индивидуализм \| Empty, Open and Closed Individualism](https://reducingsuffering.github.io/manu-herran-empty-open-and-closed-individualism.html) (2018), редактура
+
+<a id="Jim_Buhler"></a>
+**Джим Бюлер \| Jim Buhler:**
+* [Что будут ценить люди будущего? Сжатое введение в аксиологическую футурологию \| Predicting what future people value: A terse introduction to Axiological Futurism](https://reducingsuffering.github.io/jim-buhler-predicting-what-future-people-value.html) (2023)
+* [Для предсказания будущего неважно, какова моральная истина \| What the Moral Truth might be makes no difference to what will happen](https://reducingsuffering.github.io/jim-buhler-what-the-moral-truth-might-be-makes-no-difference.html) (2023)
+* [Тезис об отборе жадных ценностей. Какие ценности будут у космических цивилизаций? \| The Grabby Values Selection Thesis: What values do space-faring civilizations plausibly have?](https://reducingsuffering.github.io/jim-buhler-the-grabby-values-selection-thesis.html) (2023)
+* [Почему мы можем ожидать, что у наших потомков не будет сострадания \| Why we may expect our successors not to care about suffering](https://reducingsuffering.github.io/jim-buhler-why-we-may-expect-our-successors-not-to-care-about-suffering.html) (2023)
+* [Какие ценности будут править будущим? Обзор, выводы и направления для будущих исследований \| What values will control the Future? Overview, conclusion, and directions for future work](https://reducingsuffering.github.io/jim-buhler-what-values-will-control-the-future.html) (2023)
 
 <a id="Eliezer_Yudkowsky"></a>
 **Элиезер Юдковский \| Eliezer Yudkowsky:**
@@ -114,6 +128,10 @@ title: "Переводы"
 <a id="Thomas_Metzinger"></a>
 **Томас Метцингер \| Thomas Metzinger:**
 * [Искусственное страдание: аргумент в пользу глобального моратория на синтетическую феноменологию \| Artificial Suffering: An Argument for a Global Moratorium on Synthetic Phenomenology](https://reducingsuffering.github.io/thomas-metzinger-artificial-suffering.html) (2021), редактура
+
+<a id="John_Basl"></a>
+**Джон Басл & Эрик Швицгебель \| John Basl & Eric Schwitzgebel:**
+* [ИИ должны быть защищены не меньше животных \| AIs should have the same ethical protections as animals](https://reducingsuffering.github.io/john-basl-ais-should-have-the-same-ethical-protections-as-animals.html) (2019)
 
 <a id="Scott_Alexander"></a>
 **Скотт Александер \| Scott Alexander:**
