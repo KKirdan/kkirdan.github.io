@@ -12,7 +12,7 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 60 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (17 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (18 переводов)
 * **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (13 переводов)
 * **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (7 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
@@ -42,14 +42,15 @@ title: "Переводы"
 7. [Некоторые причины не ожидать взрывного роста](https://reducingsuffering.github.io/magnus-vinding-some-reasons-not-to-expect-a-growth-explosion.html) \| [Some reasons not to expect a growth explosion](https://magnusvinding.com/2021/06/07/reasons-not-to-expect-a-growth-explosion/){: class="b"} (2021)
 8. [Страдание и счастье: морально симметричны или ортогональны?](https://reducingsuffering.github.io/magnus-vinding-suffering-and-happiness-morally-symmetric-or-orthogonal.html) \| [Suffering and happiness: Morally symmetric or orthogonal?](https://centerforreducingsuffering.org/research/suffering-and-happiness-morally-symmetric-or-orthogonal/){: class="b"} (2020)
 9. [Когда машины улучшают машины](https://reducingsuffering.github.io/magnus-vinding-when-machines-improve-machines.html) \| [When Machines Improve Machines](https://magnusvinding.com/2020/08/09/when-machines-improve-machines/){: class="b"} (2020)
-10. [Объясняя существование](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) \| [Explaining Existence](https://magnusvinding.com/2018/08/16/explaining-existence/){: class="b"} (2018-2023)
-11. [Почему многомировая интерпретация может не иметь существенных этических последствий](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) \| [Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://magnusvinding.com/2018/11/02/why-many-worlds-may-not-have-significant-implications/){: class="b"} (2018)
-12. [Расширение морального круга может увеличить будущие страдания](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) \| [Moral Circle Expansion Might Increase Future Suffering](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/){: class="b"} (2018)
-13. [Возможно ли согласование ИИ?](https://reducingsuffering.github.io/magnus-vinding-is-ai-alignment-possible.html) \| [Is AI Alignment Possible?](https://magnusvinding.com/2018/12/14/is-ai-alignment-possible/){: class="b"} (2018)
-14. [Список источников против жесткого взлета ИИ](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) \| [A Contra AI FOOM Reading List](https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/){: class="b"} (2017-2023)
-15. [Дерево должного — схема приоритизации (направлений)](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) \| [The Tree of Ought — A (Cause) Prioritization Framework](https://magnusvinding.blogspot.com/2016/09/the-tree-of-ought-cause-prioritization.html){: class="b"} (2016)
-16. [Приоритизация направлений](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) \| [Cause Prioritization](https://magnusvinding.blogspot.com/2016/09/cause-prioritization.html){: class="b"} (2016)
-17. [Вред смерти](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) \| [The Harm of Death](https://www.utilitarianism.com/magnus-vinding/harm-death.html){: class="b"} (2015)
+10. [О теориях сентиентности: беседа с Магнусом Виндингом](https://reducingsuffering.github.io/sentience-research-on-theories-of-sentience-a-talk-with-magnus-vinding.html) \| **Sentience Research**, [On theories of sentience: a talk with Magnus Vinding](https://sentience-research.org/on-theories-of-sentience-a-talk-with-magnus-vinding/){: class="b"} (2020-2024)
+11. [Объясняя существование](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) \| [Explaining Existence](https://magnusvinding.com/2018/08/16/explaining-existence/){: class="b"} (2018-2023)
+12. [Почему многомировая интерпретация может не иметь существенных этических последствий](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) \| [Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://magnusvinding.com/2018/11/02/why-many-worlds-may-not-have-significant-implications/){: class="b"} (2018)
+13. [Расширение морального круга может увеличить будущие страдания](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) \| [Moral Circle Expansion Might Increase Future Suffering](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/){: class="b"} (2018)
+14. [Возможно ли согласование ИИ?](https://reducingsuffering.github.io/magnus-vinding-is-ai-alignment-possible.html) \| [Is AI Alignment Possible?](https://magnusvinding.com/2018/12/14/is-ai-alignment-possible/){: class="b"} (2018)
+15. [Список источников против жесткого взлета ИИ](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) \| [A Contra AI FOOM Reading List](https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/){: class="b"} (2017-2023)
+16. [Дерево должного — схема приоритизации (направлений)](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) \| [The Tree of Ought — A (Cause) Prioritization Framework](https://magnusvinding.blogspot.com/2016/09/the-tree-of-ought-cause-prioritization.html){: class="b"} (2016)
+17. [Приоритизация направлений](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) \| [Cause Prioritization](https://magnusvinding.blogspot.com/2016/09/cause-prioritization.html){: class="b"} (2016)
+18. [Вред смерти](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) \| [The Harm of Death](https://www.utilitarianism.com/magnus-vinding/harm-death.html){: class="b"} (2015)
 
 <a id="Brian_Tomasik"></a>
 ## Брайан Томасик \| Brian Tomasik:
