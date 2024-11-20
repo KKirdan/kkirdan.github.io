@@ -3,7 +3,7 @@ layout: blog
 title: "Рекомендации"
 nav_id: 4
 ---
-На этой странице я оставлю (пока совсем небольшой) список ресурсов и книг других авторов на русском и английском языке, с которыми очень рекомендую ознакомиться. В дальнейшем также оставлю здесь список лучших статей.
+На этой странице я оставлю (пока совсем небольшой) список ресурсов и книг других авторов на русском и английском языке, с которыми очень рекомендую ознакомиться.
 
 # Ресурсы:
 
@@ -13,7 +13,6 @@ nav_id: 4
 {% include project-entry.html title="LessWrong на русском" url="https://lesswrong.ru/" vk="https://vk.com/public65688570" telegram="https://t.me/lesswrong_ru_news" text="о рациональном мышлении и футурологии" %}
 {% include project-entry.html title="Уличная эпистемология" url="https://streetepistemology.ru/" vk="https://vk.com/street_epistemology" text="о методах бесконфликтного общения и исследовании надежности убеждений" %}
 {% include project-entry.html title="Эффективный альтруизм" url="https://ea-ru.org/" vk="https://vk.com/public71205962" telegram="https://t.me/effectivealtruism" text="о том, как эффективнее менять мир в лучшую сторону" %}
-{% include project-entry.html title="Центр рациональности Кочерга" url="https://kocherga-club.ru/" vk="https://vk.com/kocherga_club" text="встречи и общение на тему рационального мышления и не только" %}
 {% include project-entry.html title="Безопасность искусственного интеллекта" url="https://aisafety.ru/" text="переводы статей по согласованию искусственного интеллекта" %}
 {% include project-entry.html title="Matter and Mind" url="https://ubq124.wordpress.com" vk="https://vk.com/public44220375" youtube="https://www.youtube.com/c/MatterandMind" text="переводы и озвучка статей по философии сознания, этике и не только" %}
 {% include project-entry.html title="Brick of Knowledge" url="https://brickofknowledge.com/" telegram="https://t.me/brickofknowledge" text="переводы статей из Стэнфордской энциклопедии философии" %}
