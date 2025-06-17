@@ -18,8 +18,8 @@ title: "Переводы"
 * **[Джим Бюлер \| Jim Buhler](#Jim_Buhler)** (6 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
 * **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (4 перевода)
-* **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
 * **[Дэвид Пирс \| David Pearce](#David_Pearce)** (4 перевода)
+* **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
 * **[Майкл Делло-Иаково \| Michael Dello-Iacovo](#Michael_Dello-Iacovo)** (2 перевода)
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
@@ -85,15 +85,6 @@ title: "Переводы"
 11. [Краткий обзор на работу Эрика Дрекслера по рефреймингу безопасности ИИ](https://reducingsuffering.github.io/tobias-baumann-summary-of-eric-drexlers-work-on-reframing-ai-safety.html) \| [Summary of Eric Drexler’s work on reframing AI safety](https://s-risks.org/summary-of-eric-drexlers-work-on-reframing-ai-safety/){: class="b"} (2017-2020)
 12. [S-риски: Введение](https://reducingsuffering.github.io/tobias-baumann-s-risks-an-introduction.html) \| [S-risks: An introduction](https://centerforreducingsuffering.org/research/intro/){: class="b"} (2017)
 
-<a id="Manu_Herran"></a>
-## Ману Эрран \| Manu Herrán:
-1. [Что я могу сделать для предотвращения интенсивных страданий?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-intense-suffering.html) \| [What can I do to prevent intense suffering?](https://manuherran.com/what-can-i-do-to-prevent-intense-suffering/){: class="b"} (2020)
-2. [Что я могу сделать для предотвращения собственных интенсивных страданий?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-my-own-intense-suffering.html) \| [What can I do to prevent my own intense suffering?](https://manuherran.com/what-can-i-do-to-prevent-my-own-intense-suffering/){: class="b"} (2020)
-3. [Кур и свиней сжигают и варят живьем в Европе и США](https://reducingsuffering.github.io/manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html) \| [Chicken and pigs burned and boiled alive in Europe and USA](https://manuherran.com/chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa/){: class="b"} (2020)
-4. [Зачем фокусироваться на уменьшении интенсивного страдания?](https://reducingsuffering.github.io/manu-herran-why-to-focus-on-reducing-intense-suffering.html) \| [Why to focus on reducing intense suffering?](https://manuherran.com/why-to-focus-on-reducing-intense-suffering/){: class="b"} (2019)
-5. [Вещи, которые отталкивают внимание](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html) \| [Stuff that repels the attention](https://manuherran.com/stuff-that-repels-the-attention/){: class="b"} (2019)
-6. [Пустой, открытый и закрытый индивидуализм](https://reducingsuffering.github.io/manu-herran-empty-open-and-closed-individualism.html) \| [Empty, Open and Closed Individualism](https://manuherran.com/empty-open-and-closed-individualism/){: class="b"} (2018), редактура
-
 <a id="Jim_Buhler"></a>
 ## Джим Бюлер \| Jim Buhler:
 1. [Что будут ценить люди будущего? Сжатое введение в аксиологическую футурологию](https://reducingsuffering.github.io/jim-buhler-predicting-what-future-people-value.html) \| [Predicting what future people value: A terse introduction to Axiological Futurism](https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/FCkchmXcSCQtJ9PZA){: class="b"} (2023)
@@ -103,6 +94,15 @@ title: "Переводы"
 5. [Какие ценности будут править будущим? Обзор, выводы и направления для будущих исследований](https://reducingsuffering.github.io/jim-buhler-what-values-will-control-the-future.html) \| [What values will control the Future? Overview, conclusion, and directions for future work](https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/C8CPrTe2QqdtGxLtz){: class="b"} (2023)
 6. [Будущий технический прогресс НЕ коррелирует с подходами, требующими меньше страданий](https://reducingsuffering.github.io/jim-buhler-future-technological-progress-does-not-correlate-with.html) \| [Future technological progress does NOT correlate with methods that involve less suffering](https://forum.effectivealtruism.org/posts/y3wDuScgWzzPdAtgo/future-technological-progress-does-not-correlate-with){: class="b"} (2023)
 
+<a id="Manu_Herran"></a>
+## Ману Эрран \| Manu Herrán:
+1. [Что я могу сделать для предотвращения интенсивных страданий?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-intense-suffering.html) \| [What can I do to prevent intense suffering?](https://manuherran.com/what-can-i-do-to-prevent-intense-suffering/){: class="b"} (2020)
+2. [Что я могу сделать для предотвращения собственных интенсивных страданий?](https://reducingsuffering.github.io/manu-herran-what-can-i-do-to-prevent-my-own-intense-suffering.html) \| [What can I do to prevent my own intense suffering?](https://manuherran.com/what-can-i-do-to-prevent-my-own-intense-suffering/){: class="b"} (2020)
+3. [Кур и свиней сжигают и варят живьем в Европе и США](https://reducingsuffering.github.io/manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html) \| [Chicken and pigs burned and boiled alive in Europe and USA](https://manuherran.com/chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa/){: class="b"} (2020)
+4. [Зачем фокусироваться на уменьшении интенсивного страдания?](https://reducingsuffering.github.io/manu-herran-why-to-focus-on-reducing-intense-suffering.html) \| [Why to focus on reducing intense suffering?](https://manuherran.com/why-to-focus-on-reducing-intense-suffering/){: class="b"} (2019)
+5. [Вещи, которые отталкивают внимание](https://reducingsuffering.github.io/manu-herran-stuff-that-repels-the-attention.html) \| [Stuff that repels the attention](https://manuherran.com/stuff-that-repels-the-attention/){: class="b"} (2019)
+6. [Пустой, открытый и закрытый индивидуализм](https://reducingsuffering.github.io/manu-herran-empty-open-and-closed-individualism.html) \| [Empty, Open and Closed Individualism](https://manuherran.com/empty-open-and-closed-individualism/){: class="b"} (2018), редактура
+
 <a id="Eliezer_Yudkowsky"></a>
 ## Элиезер Юдковский \| Eliezer Yudkowsky:
 1. [Серьезные истории](https://reducingsuffering.github.io/eliezer-yudkowsky-serious-stories.html) \| [Serious Stories](https://www.lesswrong.com/posts/6qS9q5zHafFXsB6hf/serious-stories){: class="b"} (2009)
@@ -110,18 +110,18 @@ title: "Переводы"
 3. [Нет универсально убедительных аргументов](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) \| [No Universally Compelling Arguments](https://www.readthesequences.com/No-Universally-Compelling-Arguments){: class="b"} (2008)
 4. [Суть твоя — физика](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) \| [Thou Art Physics](https://www.readthesequences.com/Thou-Art-Physics){: class="b"} (2008) 
 
-<a id="Lukas_Gloor"></a>
-## Лукас Глор \| Lukas Gloor:
-1. [Цели и средства](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) \| [Means and Ends](https://crucialconsiderations.org/ethics/means-and-ends/){: class="b"} (2015)
-2. [Этика и объективность](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) \| [Ethics and Objectivity](https://crucialconsiderations.org/ethics/41/){: class="b"} (2014)
-3. [Что такое жизнь?](https://reducingsuffering.github.io/lukas-gloor-what-is-life.html) \| [What Is Life?](https://crucialconsiderations.org/philosophy/what-is-life/){: class="b"} (2014)
-
 <a id="David_Pearce"></a>
 ## Дэвид Пирс \| David Pearce:
 1. [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html){: class="b"}, 2013)
 2. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://reducingsuffering.github.io/david-pearce-top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
 3. [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
 4. [Квантовая этика? Страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
+
+<a id="Lukas_Gloor"></a>
+## Лукас Глор \| Lukas Gloor:
+1. [Цели и средства](https://reducingsuffering.github.io/lukas-gloor-means-and-ends.html) \| [Means and Ends](https://crucialconsiderations.org/ethics/means-and-ends/){: class="b"} (2015)
+2. [Этика и объективность](https://reducingsuffering.github.io/lukas-gloor-ethics-and-objectivity.html) \| [Ethics and Objectivity](https://crucialconsiderations.org/ethics/41/){: class="b"} (2014)
+3. [Что такое жизнь?](https://reducingsuffering.github.io/lukas-gloor-what-is-life.html) \| [What Is Life?](https://crucialconsiderations.org/philosophy/what-is-life/){: class="b"} (2014)
 
 <a id="Michael_Dello-Iacovo"></a>
 ## Майкл Делло-Иаково \| Michael Dello-Iacovo:
