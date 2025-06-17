@@ -12,14 +12,14 @@ title: "Переводы"
 
 ##  Содержание
 * **[Сайт arbital.com](#Arbital)** (более 60 переводов)
-* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (18 переводов)
-* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (13 переводов)
-* **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (7 переводов)
+* **[Магнус Виндинг \| Magnus Vinding](#Magnus_Vinding)** (19 переводов)
+* **[Брайан Томасик \| Brian Tomasik](#Brian_Tomasik)** (14 переводов)
+* **[Тобиас Бауман \| Tobias Baumann](#Tobias_Baumann)** (12 переводов)
+* **[Джим Бюлер \| Jim Buhler](#Jim_Buhler)** (6 переводов)
 * **[Ману Эрран \| Manu Herrán](#Manu_Herran)** (5 переводов, 1 редактура)
-* **[Джим Бюлер \| Jim Buhler](#Jim_Buhler)** (5 переводов)
-* **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (3 перевода)
+* **[Элиезер Юдковский \| Eliezer Yudkowsky](#Eliezer_Yudkowsky)** (4 перевода)
 * **[Лукас Глор \| Lukas Gloor](#Lukas_Gloor)** (3 перевода)
-* **[Дэвид Пирс \| David Pearce](#David_Pearce)** (3 перевода)
+* **[Дэвид Пирс \| David Pearce](#David_Pearce)** (4 перевода)
 * **[Майкл Делло-Иаково \| Michael Dello-Iacovo](#Michael_Dello-Iacovo)** (2 перевода)
 * **[Рон Андерсон \| Ron Anderson](#Ron_Anderson)** (2 перевода)
 * **[Саймон Кнутссон \| Simon Knutsson](#Simon_Knutsson)** (2 перевода)
@@ -43,40 +43,47 @@ title: "Переводы"
 8. [Страдание и счастье: морально симметричны или ортогональны?](https://reducingsuffering.github.io/magnus-vinding-suffering-and-happiness-morally-symmetric-or-orthogonal.html) \| [Suffering and happiness: Morally symmetric or orthogonal?](https://centerforreducingsuffering.org/research/suffering-and-happiness-morally-symmetric-or-orthogonal/){: class="b"} (2020)
 9. [Когда машины улучшают машины](https://reducingsuffering.github.io/magnus-vinding-when-machines-improve-machines.html) \| [When Machines Improve Machines](https://magnusvinding.com/2020/08/09/when-machines-improve-machines/){: class="b"} (2020)
 10. [О теориях сентиентности: беседа с Магнусом Виндингом](https://reducingsuffering.github.io/sentience-research-on-theories-of-sentience-a-talk-with-magnus-vinding.html) \| [On theories of sentience: a talk with Magnus Vinding](https://sentience-research.org/on-theories-of-sentience-a-talk-with-magnus-vinding/){: class="b"} (2020-2024)
-11. [Объясняя существование](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) \| [Explaining Existence](https://magnusvinding.com/2018/08/16/explaining-existence/){: class="b"} (2018-2023)
-12. [Почему многомировая интерпретация может не иметь существенных этических последствий](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) \| [Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://magnusvinding.com/2018/11/02/why-many-worlds-may-not-have-significant-implications/){: class="b"} (2018)
-13. [Расширение морального круга может увеличить будущие страдания](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) \| [Moral Circle Expansion Might Increase Future Suffering](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/){: class="b"} (2018)
-14. [Возможно ли согласование ИИ?](https://reducingsuffering.github.io/magnus-vinding-is-ai-alignment-possible.html) \| [Is AI Alignment Possible?](https://magnusvinding.com/2018/12/14/is-ai-alignment-possible/){: class="b"} (2018)
-15. [Список источников против жесткого взлета ИИ](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) \| [A Contra AI FOOM Reading List](https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/){: class="b"} (2017-2023)
-16. [Дерево должного — схема приоритизации (направлений)](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) \| [The Tree of Ought — A (Cause) Prioritization Framework](https://magnusvinding.blogspot.com/2016/09/the-tree-of-ought-cause-prioritization.html){: class="b"} (2016)
-17. [Приоритизация направлений](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) \| [Cause Prioritization](https://magnusvinding.blogspot.com/2016/09/cause-prioritization.html){: class="b"} (2016)
-18. [Вред смерти](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) \| [The Harm of Death](https://www.utilitarianism.com/magnus-vinding/harm-death.html){: class="b"} (2015)
+11. [Почему альтруисты должны быть кооперативными](https://reducingsuffering.github.io/magnus-vinding-why-altruists-should-be-cooperative.html) \| [Why altruists should be cooperative](hhttps://centerforreducingsuffering.org/research/why-altruists-should-be-cooperative/){: class="b"} (2020)
+12. [Объясняя существование](https://reducingsuffering.github.io/magnus-vinding-explaining-existence.html) \| [Explaining Existence](https://magnusvinding.com/2018/08/16/explaining-existence/){: class="b"} (2018-2023)
+13. [Почему многомировая интерпретация может не иметь существенных этических последствий](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) \| [Why the Many-Worlds Interpretation May Not Have Significant Ethical Implications](https://magnusvinding.com/2018/11/02/why-many-worlds-may-not-have-significant-implications/){: class="b"} (2018)
+14. [Расширение морального круга может увеличить будущие страдания](https://reducingsuffering.github.io/magnus-vinding-moral-circle-expansion-might-increase-future-suffering.html) \| [Moral Circle Expansion Might Increase Future Suffering](https://magnusvinding.com/2018/09/04/moral-circle-expansion-might-increase-future-suffering/){: class="b"} (2018)
+15. [Возможно ли согласование ИИ?](https://reducingsuffering.github.io/magnus-vinding-is-ai-alignment-possible.html) \| [Is AI Alignment Possible?](https://magnusvinding.com/2018/12/14/is-ai-alignment-possible/){: class="b"} (2018)
+16. [Список источников против жесткого взлета ИИ](https://reducingsuffering.github.io/magnus-vinding-a-contra-ai-foom-reading-list.html) \| [A Contra AI FOOM Reading List](https://magnusvinding.com/2017/12/16/a-contra-ai-foom-reading-list/){: class="b"} (2017-2023)
+17. [Дерево должного — схема приоритизации (направлений)](https://reducingsuffering.github.io/magnus-vinding-the-tree-of-ought-a-cause-prioritization-framework.html) \| [The Tree of Ought — A (Cause) Prioritization Framework](https://magnusvinding.blogspot.com/2016/09/the-tree-of-ought-cause-prioritization.html){: class="b"} (2016)
+18. [Приоритизация направлений](https://reducingsuffering.github.io/magnus-vinding-cause-prioritization.html) \| [Cause Prioritization](https://magnusvinding.blogspot.com/2016/09/cause-prioritization.html){: class="b"} (2016)
+19. [Вред смерти](https://reducingsuffering.github.io/magnus-vinding-the-harm-of-death.html) \| [The Harm of Death](https://www.utilitarianism.com/magnus-vinding/harm-death.html){: class="b"} (2015)
 
 <a id="Brian_Tomasik"></a>
 ## Брайан Томасик \| Brian Tomasik:
 1. [Что не так с энтомофагией? (короткое интервью)](https://reducingsuffering.github.io/brian-tomasik-whats-wrong-with-entomophagy-a-short-interview.html) \| [What's Wrong with Entomophagy? (a short interview)](https://reducing-suffering.org/whats-wrong-entomophagy-short-interview/){: class="b"} (2017)
-2. [Зачем веганам думать о страданиях в дикой природе](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) \| [Why Vegans Should Care about Suffering in Nature](https://reducing-suffering.org/why-vegans-should-care-about-suffering-in-nature/){: class="b"} (2015-2017)
-3. [Больше страданий: от контролируемого людьми ИИ или мятежного?](https://reducingsuffering.github.io/brian-tomasik-2.html) \| Would a human-inspired AI or rogue AI cause more suffering? (фрагмент из «[Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering#more-suffering){: class="b"}», 2014-2019)
-4. [Умножит ли колонизация космоса страдания диких животных?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) \| [Will Space Colonization Multiply Wild-Animal Suffering?](https://reducing-suffering.org/will-space-colonization-multiply-wild-animal-suffering/){: class="b"} (2014-2018)
-5. [Мораль, движимая красотой](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) \| [Beauty-Driven Morality](https://reducing-suffering.org/beauty-driven-morality/){: class="b"} (2013-2014)
-6. [Омелас и колонизация космоса](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) \| [Omelas and Space Colonization](https://reducing-suffering.org/omelas-and-space-colonization/){: class="b"} (2013-2017)
-7. [Один триллион рыб](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) \| [One Trillion Fish](https://reducing-suffering.org/one-trillion-fish/){: class="b"} (2012-2020)
-8. [Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html) \| Why we should remain cooperative (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering/#Why_we_should_remain_cooperative){: class="b"}», 2011-2019)
-9. [Должны ли мы вмешиваться в природу?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) \| [Should We Intervene in Nature?](https://reducing-suffering.org/should-we-intervene-in-nature/){: class="b"} (2009-2016)
-10. [Зачем максимизировать ожидаемую полезность?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) \| [Why Maximize Expected Value?](https://reducing-suffering.org/why-maximize-expected-value/){: class="b"} (2007-2016)
-11. [Ожидаемая ценность информации](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) \| [Expected Value of Information](https://briantomasik.com/wp-content/uploads/2014/10/value-of-info.pdf){: class="b"} (2007)
-12. [Вегетарианский выбор что-то меняет?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) \| [Does Vegetarianism Make a Difference?](https://reducing-suffering.org/does-vegetarianism-make-a-difference/){: class="b"} (2006-2014)
-13. [Интуиция и разум](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) \| [Intuition and Reason](https://reducing-suffering.org/intuition-and-reason/){: class="b"} (2005-2013)
+2. [Утопия в будущем: насколько она вероятна?](https://reducingsuffering.github.io/brian-tomasik-how-likely-is-a-far-future-utopia.html) \| [How Likely Is a Far-Future Utopia?](https://reducing-suffering.org/utopia/){: class="b"} (2017)
+3. [Зачем веганам думать о страданиях в дикой природе](https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html) \| [Why Vegans Should Care about Suffering in Nature](https://reducing-suffering.org/why-vegans-should-care-about-suffering-in-nature/){: class="b"} (2015-2017)
+4. [Больше страданий: от контролируемого людьми ИИ или мятежного?](https://reducingsuffering.github.io/brian-tomasik-2.html) \| Would a human-inspired AI or rogue AI cause more suffering? (фрагмент из «[Artificial Intelligence and Its Implications for Future Suffering](https://longtermrisk.org/artificial-intelligence-and-its-implications-for-future-suffering#more-suffering){: class="b"}», 2014-2019)
+5. [Умножит ли колонизация космоса страдания диких животных?](https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html) \| [Will Space Colonization Multiply Wild-Animal Suffering?](https://reducing-suffering.org/will-space-colonization-multiply-wild-animal-suffering/){: class="b"} (2014-2018)
+6. [Мораль, движимая красотой](https://reducingsuffering.github.io/brian-tomasik-beauty-driven-morality.html) \| [Beauty-Driven Morality](https://reducing-suffering.org/beauty-driven-morality/){: class="b"} (2013-2014)
+7. [Омелас и колонизация космоса](https://reducingsuffering.github.io/brian-tomasik-omelas-and-space-colonization.html) \| [Omelas and Space Colonization](https://reducing-suffering.org/omelas-and-space-colonization/){: class="b"} (2013-2017)
+8. [Один триллион рыб](https://reducingsuffering.github.io/brian-tomasik-one-trillion-fish.html) \| [One Trillion Fish](https://reducing-suffering.org/one-trillion-fish/){: class="b"} (2012-2020)
+9. [Почему мы должны оставаться кооперативными](https://reducingsuffering.github.io/brian-tomasik-1.html) \| Why we should remain cooperative (фрагмент из «[Risks of Astronomical Future Suffering](https://longtermrisk.org/risks-of-astronomical-future-suffering/#Why_we_should_remain_cooperative){: class="b"}», 2011-2019)
+10. [Должны ли мы вмешиваться в природу?](https://reducingsuffering.github.io/brian-tomasik-should-we-intervene-in-nature.html) \| [Should We Intervene in Nature?](https://reducing-suffering.org/should-we-intervene-in-nature/){: class="b"} (2009-2016)
+11. [Зачем максимизировать ожидаемую полезность?](https://reducingsuffering.github.io/brian-tomasik-why-maximize-expected-value.html) \| [Why Maximize Expected Value?](https://reducing-suffering.org/why-maximize-expected-value/){: class="b"} (2007-2016)
+12. [Ожидаемая ценность информации](https://reducingsuffering.github.io/brian-tomasik-expected-value-of-information.html) \| [Expected Value of Information](https://briantomasik.com/wp-content/uploads/2014/10/value-of-info.pdf){: class="b"} (2007)
+13. [Вегетарианский выбор что-то меняет?](https://reducingsuffering.github.io/brian-tomasik-does-vegetarianism-make-a-difference.html) \| [Does Vegetarianism Make a Difference?](https://reducing-suffering.org/does-vegetarianism-make-a-difference/){: class="b"} (2006-2014)
+14. [Интуиция и разум](https://reducingsuffering.github.io/brian-tomasik-intuition-and-reason.html) \| [Intuition and Reason](https://reducing-suffering.org/intuition-and-reason/){: class="b"} (2005-2013)
 
 <a id="Tobias_Baumann"></a>
 ## Тобиас Бауман \| Tobias Baumann:
 1. [Мысли о колонизации космоса](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-space-colonisation.html) \| [Thoughts on space colonisation](https://s-risks.org/thoughts-on-space-colonisation/){: class="b"} (2020)
-2. [Мысли о лонгтермизме](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-longtermism.html) \| [Thoughts on longtermism](https://s-risks.org/thoughts-on-longtermism/){: class="b"} (2019)
-3. [Важность далекого будущего](https://reducingsuffering.github.io/tobias-baumann-the-importance-of-the-far-future.html) \| [The Importance of the Far Future](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-importance-of-the-far-future/){: class="b"} (2018)
-4. [Альтруизм, числа и промышленное животноводство](https://reducingsuffering.github.io/tobias-baumann-altruism-numbers-and-factory-farms.html) \| [Altruism, Numbers, and Factory Farms](https://centerforreducingsuffering.org/sentience-politics-series-introduction/altruism-numbers-and-factory-farms/){: class="b"} (2018)
-5. [Против видовой дискриминации](https://reducingsuffering.github.io/tobias-baumann-the-case-against-speciesism.html) \| [The Case Against Speciesism](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-case-against-speciesism/){: class="b"} (2018)
-6. [Краткий обзор на работу Эрика Дрекслера по рефреймингу безопасности ИИ](https://reducingsuffering.github.io/tobias-baumann-summary-of-eric-drexlers-work-on-reframing-ai-safety.html) \| [Summary of Eric Drexler’s work on reframing AI safety](https://s-risks.org/summary-of-eric-drexlers-work-on-reframing-ai-safety/){: class="b"} (2017-2020)
-7. [S-риски: Введение](https://reducingsuffering.github.io/tobias-baumann-s-risks-an-introduction.html) \| [S-risks: An introduction](https://centerforreducingsuffering.org/research/intro/){: class="b"} (2017)
+2. [Теория хаоса, аттракторы и лонгтермизм](https://reducingsuffering.github.io/tobias-baumann-chaos-theory-attractors-and-longtermism.html) \| [Chaos theory, attractors and longtermism](https://s-risks.org/chaos-theory-attractors-and-longtermism/){: class="b"} (2020)
+3. [Факторы риска для s-рисков](https://reducingsuffering.github.io/tobias-baumann-risk-factors-for-s-risks.html) \| [Risk factors for s-risks](https://centerforreducingsuffering.org/research/risk-factors-for-s-risks/){: class="b"} (2019-2022)
+4. [Мысли о лонгтермизме](https://reducingsuffering.github.io/tobias-baumann-thoughts-on-longtermism.html) \| [Thoughts on longtermism](https://s-risks.org/thoughts-on-longtermism/){: class="b"} (2019)
+5. [Типология s-рисков](https://reducingsuffering.github.io/tobias-baumann-a-typology-of-s-risks.html) \| [A typology of s-risks](https://centerforreducingsuffering.org/research/a-typology-of-s-risks/){: class="b"} (2018-2022)
+6. [Важность далекого будущего](https://reducingsuffering.github.io/tobias-baumann-the-importance-of-the-far-future.html) \| [The Importance of the Far Future](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-importance-of-the-far-future/){: class="b"} (2018)
+7. [Альтруизм, числа и промышленное животноводство](https://reducingsuffering.github.io/tobias-baumann-altruism-numbers-and-factory-farms.html) \| [Altruism, Numbers, and Factory Farms](https://centerforreducingsuffering.org/sentience-politics-series-introduction/altruism-numbers-and-factory-farms/){: class="b"} (2018)
+8. [Против видовой дискриминации](https://reducingsuffering.github.io/tobias-baumann-the-case-against-speciesism.html) \| [The Case Against Speciesism](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-case-against-speciesism/){: class="b"} (2018)
+9. [Как эффективно уменьшить страдания животных](https://reducingsuffering.github.io/tobias-baumann-effective-strategies-to-reduce-animal-suffering.html) \| [Effective Strategies To Reduce Animal Suffering](https://centerforreducingsuffering.org/sentience-politics-series-introduction/effective-strategies-to-reduce-animal-suffering/){: class="b"} (2018)
+10. [Проблема страданий диких животных](https://reducingsuffering.github.io/tobias-baumann-the-relevance-of-wild-animal-suffering.html) \| [The Relevance of Wild Animal Suffering](https://centerforreducingsuffering.org/sentience-politics-series-introduction/the-relevance-of-wild-animal-suffering/){: class="b"} (2018)
+11. [Краткий обзор на работу Эрика Дрекслера по рефреймингу безопасности ИИ](https://reducingsuffering.github.io/tobias-baumann-summary-of-eric-drexlers-work-on-reframing-ai-safety.html) \| [Summary of Eric Drexler’s work on reframing AI safety](https://s-risks.org/summary-of-eric-drexlers-work-on-reframing-ai-safety/){: class="b"} (2017-2020)
+12. [S-риски: Введение](https://reducingsuffering.github.io/tobias-baumann-s-risks-an-introduction.html) \| [S-risks: An introduction](https://centerforreducingsuffering.org/research/intro/){: class="b"} (2017)
 
 <a id="Manu_Herran"></a>
 ## Ману Эрран \| Manu Herrán:
@@ -94,12 +101,14 @@ title: "Переводы"
 3. [Тезис об отборе "жадных" ценностей. Какие ценности будут у космических цивилизаций?](https://reducingsuffering.github.io/jim-buhler-the-grabby-values-selection-thesis.html) \| [The Grabby Values Selection Thesis: What values do space-faring civilizations plausibly have?](https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/xdKnfQKLyYQfeErSr){: class="b"} (2023)
 4. [Почему мы можем ожидать, что наши потомки не будут сострадательными](https://reducingsuffering.github.io/jim-buhler-why-we-may-expect-our-successors-not-to-care-about-suffering.html) \| [Why we may expect our successors not to care about suffering](https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/bTPP7fZxSvBzsNDES){: class="b"} (2023)
 5. [Какие ценности будут править будущим? Обзор, выводы и направления для будущих исследований](https://reducingsuffering.github.io/jim-buhler-what-values-will-control-the-future.html) \| [What values will control the Future? Overview, conclusion, and directions for future work](https://forum.effectivealtruism.org/s/wmqLbtMMraAv5Gyqn/p/C8CPrTe2QqdtGxLtz){: class="b"} (2023)
+6. [Будущий технический прогресс НЕ коррелирует с подходами, требующими меньше страданий](https://reducingsuffering.github.io/jim-buhler-future-technological-progress-does-not-correlate-with.html) \| [Future technological progress does NOT correlate with methods that involve less suffering](https://forum.effectivealtruism.org/posts/y3wDuScgWzzPdAtgo/future-technological-progress-does-not-correlate-with){: class="b"} (2023)
 
 <a id="Eliezer_Yudkowsky"></a>
 ## Элиезер Юдковский \| Eliezer Yudkowsky:
-1. [Жить во многих мирах](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) \| [Living in Many Worlds](https://www.readthesequences.com/Living-In-Many-Worlds){: class="b"} (2008)
-2. [Нет универсально убедительных аргументов](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) \| [No Universally Compelling Arguments](https://www.readthesequences.com/No-Universally-Compelling-Arguments){: class="b"} (2008)
-3. [Суть твоя — физика](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) \| [Thou Art Physics](https://www.readthesequences.com/Thou-Art-Physics){: class="b"} (2008)
+1. [Серьезные истории](https://reducingsuffering.github.io/eliezer-yudkowsky-serious-stories.html) \| [Serious Stories](https://www.lesswrong.com/posts/6qS9q5zHafFXsB6hf/serious-stories){: class="b"} (2009)
+2. [Жить во многих мирах](https://reducingsuffering.github.io/eliezer-yudkowsky-living-in-many-worlds.html) \| [Living in Many Worlds](https://www.readthesequences.com/Living-In-Many-Worlds){: class="b"} (2008)
+3. [Нет универсально убедительных аргументов](https://reducingsuffering.github.io/eliezer-yudkowsky-no-universally-compelling-arguments.html) \| [No Universally Compelling Arguments](https://www.readthesequences.com/No-Universally-Compelling-Arguments){: class="b"} (2008)
+4. [Суть твоя — физика](https://reducingsuffering.github.io/eliezer-yudkowsky-thou-art-physics.html) \| [Thou Art Physics](https://www.readthesequences.com/Thou-Art-Physics){: class="b"} (2008) 
 
 <a id="Lukas_Gloor"></a>
 ## Лукас Глор \| Lukas Gloor:
@@ -110,8 +119,9 @@ title: "Переводы"
 <a id="David_Pearce"></a>
 ## Дэвид Пирс \| David Pearce:
 1. [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html){: class="b"}, 2013)
-2. [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
-3. [Квантовая этика? Страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
+2. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://reducingsuffering.github.io/david-pearce-top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
+3. [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
+4. [Квантовая этика? Страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
 
 <a id="Michael_Dello-Iacovo"></a>
 ## Майкл Делло-Иаково \| Michael Dello-Iacovo:
@@ -135,7 +145,7 @@ title: "Переводы"
 <a id="Прочее"></a>
 ## Прочее:
 
-1. **Альфредо Парра \| Alfredo Parra**, [Кластерные головные боли. Клинические особенности и сравнения болевых ощущений](https://reducingsuffering.github.io/alfredo-parra-1.html) \| Clinical Features and Pain Comparisons (фрагмент из «[Quantifying the Global Burden of Extreme Pain from Cluster Headaches](https://forum.effectivealtruism.org/posts/geh2g2nKb7Kkp26ze/quantifying-the-global-burden-of-extreme-pain-from-cluster#1_1__Clinical_Features_and_Pain_Comparisons){: class="b"}»)
+1. **Альфредо Парра \| Alfredo Parra**, [Кластерные головные боли. Клинические особенности и сравнения болевых ощущений](https://reducingsuffering.github.io/alfredo-parra-1.html) \| Clinical Features and Pain Comparisons (фрагмент из «[Quantifying the Global Burden of Extreme Pain from Cluster Headaches](https://forum.effectivealtruism.org/posts/geh2g2nKb7Kkp26ze/quantifying-the-global-burden-of-extreme-pain-from-cluster#1_1__Clinical_Features_and_Pain_Comparisons){: class="b"}», 2024)
 2. **Скотт Александер \| Scott Alexander**, [НЙТ угрожает моей безопасности, раскрывая мое настоящее имя, поэтому я удаляю блог](https://vk.com/@kirdan-slate-star-codex-2020-06-22) \| [NYT Is Threatening My Safety By Revealing My Real Name, So I Am Deleting The Blog](https://slatestarcodex.com/2020/06/22/nyt-is-threatening-my-safety-by-revealing-my-real-name-so-i-am-deleting-the-blog/){: class="b"} (2020)
 3. **Джон Басл & Эрик Швицгебель \| John Basl & Eric Schwitzgebel**, [ИИ должны быть защищены не меньше животных](https://reducingsuffering.github.io/john-basl-ais-should-have-the-same-ethical-protections-as-animals.html) \| [AIs should have the same ethical protections as animals](https://aeon.co/ideas/ais-should-have-the-same-ethical-protections-as-animals){: class="b"} (2019)
 4. **Патрик Форбер & Рори Смид \| Patrick Forber & Rory Smead**, [Наказание — скорее злоба, чем общее благо](https://reducingsuffering.github.io/patrick-forber-punishment-isnt-about-the-common-good-its-about-spite.html) \| [Punishment isn’t about the common good: it’s about spite](https://aeon.co/ideas/punishment-isnt-about-the-common-good-its-about-spite){: class="b"} (2018), редактура
