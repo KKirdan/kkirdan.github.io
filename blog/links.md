@@ -18,8 +18,6 @@ nav_id: 4
 {% include project-entry.html title="Brick of Knowledge" url="https://brickofknowledge.com/" telegram="https://t.me/brickofknowledge" text="переводы статей из Стэнфордской энциклопедии философии" %}
 {% include project-entry.html title="Philosophy.ru" url="https://philosophy.ru/" text="переводы статей из Стэнфордской энциклопедии философии" %}
 {% include project-entry.html title="Разные ресурсы об антинатализме" url="https://reducingsuffering.github.io/520.html" %}
-{% include project-entry.html title="EQUALITY" vk="https://vk.com/g_equality" telegram="https://t.me/g_equality" text="пишут и переводят материалы о гендере и гендерном равенстве (результаты научных исследований, анализы книг и статей, критика сексистских идей)" %}
-{% include project-entry.html title="CMS | Маскулизм+" vk="https://vk.com/checkmatescum" telegram="https://t.me/checkmatescum" tumblr="https://ru-masculism.tumblr.com/" text="один из немногих более-менее приличных ресурсов о проблемах мужского гендера; ссылки на другие ресурсы можно найти там же" %}
 
 ## На английском языке:
 
