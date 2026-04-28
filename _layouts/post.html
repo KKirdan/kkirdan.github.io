@@ -1,0 +1,25 @@
+---
+layout: blog
+---
+
+{% if page.remark %}{{ page.remark }}<hr>{% endif %}
+{% if page.meta_tags contains "черновик" %}<b><span class="draft">{% if page.comment %}{{ page.comment }}{% else %}Это черновик!{% endif %}</span></b><hr style="margin-top: 0.2em; margin-bottom: 0.5em;">{% endif %}
+
+{% if page.show_title == true %}
+  <h1 class="post-title">{{ page.title }}</h1>
+{% endif %}
+
+<div class="post">
+  <span class="post-date">
+    {% if page.updated %}
+      {{ page.date | date: "%Y.%m.%d" }}-{{ page.updated | date: "%Y.%m.%d" }}
+    {% else %}
+      {{ page.date | date: "%Y.%m.%d" }}
+    {% endif %}
+  </span>
+  {{ content }}
+  <hr>
+  <span class="post-tags">
+    {% include list-of-tags.html tags=page.tags %}
+  </span>
+</div>

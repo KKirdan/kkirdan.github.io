@@ -1,0 +1,16 @@
+title:               Кирдан
+url:                 kkirdan.github.io
+baseurl:             ''
+permalink:           /blog/:title:output_ext
+
+vk:                  https://vk.com/kirdan
+contact_vk:          https://vk.com/kirdan
+telegram:            https://t.me/k_kirdan
+contact_telegram:    https://t.me/k_kirdan
+email:               latif.rosh@gmail.com
+
+future: true
+
+markdown: kramdown
+
+google_analytics: G-BQPMQ2SPK5

@@ -1,0 +1,34 @@
+<head>
+  {% if page.redirect %}<meta http-equiv="refresh" content="0;url={{ page.redirect }}"/>{% endif %}
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <meta property="og:title" content="{{ page.title }} | {% if page.authors or page.source %}{{ page.authors | join: ", " }}{{ page.source }}{% else %}Кирдан{% endif %}">
+  <meta property="og:locale" content="ru">
+  <meta property="og:site_name" content="К. Кирдан">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords:30 }}{% else %}{{ page.content | strip_html | truncatewords:30 }}{% endif %}">
+  <meta property="og:image" content="{{ 'blog/' | append: page.preview | absolute_url }}">
+
+  <title>
+	{{ page.title }}{% unless page.nav_id==0 %} | {% if page.authors or page.source %}{{ page.authors | join: ", " }}{{ page.source }}{% else %}Кирдан{% endif %}{% endunless %}
+  </title>
+
+  {% if page.url and site.baseurl %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/poole.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/syntax.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/lanyon.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/my.css' | relative_url }}">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+  {% if page.math %}{% include mathjax.html %}{% endif %}
+</head>

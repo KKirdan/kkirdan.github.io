@@ -1,0 +1,17 @@
+<div class="post">
+  <span class="post-title">
+    <a href="{{ post.url | relative_url }}">{{ include.title }}{% if include.meta contains "черновик" %} <span class="draft">(черновик)</span>{% endif %}</a>
+  </span>
+  <br>
+  {% if include.date %}
+  <span class="post-date-inline">{{ include.date | date: "%Y.%m.%d" }}</span>&nbsp;
+  {% endif %}
+  {% if include.tags %}
+  <span class="post-tags-inline">
+    {% include list-of-tags.html tags=include.tags %}
+  </span>
+  {% endif %}
+</div>
+
+<!-- {% if post.vk %}<a href="{{ post.vk }}"><i class="fa-brands fa-vk" aria-hidden="true"></i></a>{% endif %}
+{% if post.telegram %}<a href="{{ post.telegram }}"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>{% endif %} -->
