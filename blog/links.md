@@ -33,7 +33,7 @@ nav_id: 4
 ## На русском языке:
 
 {% include project-entry.html author="Элиезер Юдковский" title="Рациональность: от ИИ до зомби" url="https://lesswrong.ru/285" text="сборник эссе о рациональном мышлении" %}
-{% include project-entry.html author="Дэвид Пирс" title="Гедонистический императив" url="https://reducingsuffering.github.io/89.html" text="проект преодоления страданий с помощью технологий" %}
+{% include project-entry.html author="Дэвид Пирс" title="Гедонистический императив" url="https://hedweb-ru.github.io/hi/index.html" text="проект преодоления страданий с помощью технологий" %}
 {% include project-entry.html author="Элиезер Юдковский" title="Гарри Поттер и методы рационального мышления" url="https://hpmor.ru/" text="научпоп в форме фанфика по вселенной Гарри Поттера" %}
 
 ## На английском языке:
