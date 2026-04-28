@@ -22,6 +22,8 @@ nav_id: 0
 
 {% include project-entry.html title="Arbital на русском" url="https://arbital-ru.github.io/" text="переводы текстов с сайта arbital.com, посвященного искусственному интеллекту и математике" icon="https://arbital-ru.github.io/assets/images/favicon.ico" %}
 
+{% include project-entry.html title="HedWeb на русском" url="https://hedweb-ru.github.io/" text="переводы работ Дэвида Пирса, посвященных трансгуманизму, уменьшению страданий, сознанию и не только" icon="https://hedweb-ru.github.io/assets/images/favicon.ico" %}
+
 <hr style="margin: 10px">
 
 Другие проекты, которыми я занимался раньше, но уже не планирую развивать:
