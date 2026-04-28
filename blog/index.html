@@ -1,0 +1,36 @@
+---
+layout: blog
+title: "Блог"
+nav_id: 1
+---
+За новостями блога можно следить в соцсетях: <a href="{{ site.vk }}">ВКонтакте</a>, <a href="{{ site.telegram }}">Telegram</a>.<br>
+Мои переводы статей других авторов находятся на <a href="/translations/index.html">отдельной странице</a>.
+<div class="posts">
+  <h2>Наиболее важное:</h2>
+  {% for post in site.posts %}
+    {% if 7 <= post.importance and post.importance <= 10 %}{% unless post.meta_tags contains "личное" %}
+      {% include post-entry.html title=post.title date=post.date tags=post.tags meta=post.meta_tags %}
+    {% endunless %}{% endif %}
+  {% endfor %}
+  <hr>
+  <h2>Средне важное:</h2>
+  {% for post in site.posts %}
+    {% if 4 <= post.importance and post.importance <= 6 %}{% unless post.meta_tags contains "личное" %}
+      {% include post-entry.html title=post.title date=post.date tags=post.tags meta=post.meta_tags %}
+    {% endunless %}{% endif %}
+  {% endfor %}
+  <hr>
+  <h2>Личное:</h2>
+  {% for post in site.posts %}
+    {% if post.meta_tags contains "личное" %}
+	  {% include post-entry.html title=post.title date=post.date tags=post.tags %}
+    {% endif %}
+  {% endfor %}
+  <hr>
+  <h2>Прочее:</h2>
+  {% for post in site.posts %}
+    {% if 1 <= post.importance and post.importance <= 3 %}{% unless post.meta_tags contains "личное" %}
+      {% include post-entry.html title=post.title date=post.date tags=post.tags meta=post.meta_tags %}
+    {% endunless %}{% endif %}
+  {% endfor %}
+</div>
