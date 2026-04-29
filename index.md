@@ -18,7 +18,7 @@ nav_id: 0
 
 В основном я сейчас работаю над следующими проектами:
 
-{% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме и связанных темах" icon="https://reducingsuffering.github.io/assets/images/favicon.ico" %}
+{% include project-entry.html title="Reducing Suffering" url="https://reducingsuffering.github.io/" vk="https://vk.com/reducing_suffering" telegram="https://t.me/reducing_suffering" text="об уменьшении страданий, этике, эффективном альтруизме, футурологии и других связанных темах" icon="https://reducingsuffering.github.io/assets/images/favicon.ico" %}
 
 {% include project-entry.html title="HedWeb на русском" url="https://hedweb-ru.github.io/" vk="https://vk.com/hedweb_ru" telegram="https://t.me/hedweb_ru" text="переводы работ Дэвида Пирса, посвященных трансгуманизму, уменьшению страданий, сознанию и не только" icon="https://hedweb-ru.github.io/assets/images/favicon.ico" %}
 
