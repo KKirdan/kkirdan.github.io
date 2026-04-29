@@ -112,7 +112,7 @@ title: "Переводы"
 
 <a id="David_Pearce"></a>
 ## Дэвид Пирс \| David Pearce:
-1. [Черств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html){: class="b"}, 2013)
+1. [Чёрств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html){: class="b"}, 2013)
 2. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://reducingsuffering.github.io/david-pearce-top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
 3. [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
 4. [Квантовая этика? Страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
