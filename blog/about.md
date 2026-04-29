@@ -11,7 +11,7 @@ nav_id: 3
 
 Сторонник приоритетности [уменьшения страданий](b3.html) во вселенной — т. е. [негативного утилитаризма](71RS.html) и [смежных взглядов](https://reducingsuffering.github.io/414.html).
 
-Разделяю с [трансгуманизмом](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC) некоторые [мечты](https://hedweb-ru.github.io) о будущем, но у меня пессимистичные ожидания от реальности, и я считаю уменьшение [рисков ужасного будущего](https://reducingsuffering.github.io/679.html) более важной темой.
+Разделяю с [трансгуманизмом](https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC) некоторые [мечты](https://hedweb-ru.github.io) о будущем, но у меня сравнительно пессимистичные ожидания от реальности, и я считаю уменьшение [рисков ужасного будущего](https://reducingsuffering.github.io/679.html) более важной темой.
 
 Противник [сексизма](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%81%D0%B8%D0%B7%D0%BC). Считаю крайне недооцененной темой проблемы, [более специфические для мужчин](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD) — такие как призывное рабство и [мужская расходность](https://quillette.com/2019/06/03/considering-the-male-disposability-hypothesis/).
 
