@@ -97,13 +97,13 @@ title: "Переводы"
 
 <a id="David_Pearce"></a>
 ## Дэвид Пирс \| David Pearce:
-1. [Нужно ли страдать, чтобы быть счастливыми?](https://reducingsuffering.github.io/david-pearce-q2.html) \| Is it necessary for humans to experience negative emotions, such as sadness, in order to feel happy or content with their lives? ([Quora Answers](https://www.hedweb.com/){: class="b"}, 2024)
-2. [О закрытом, пустом и открытом индивидуализме](https://reducingsuffering.github.io/david-pearce-q1.html) \| What does David Pearce think of closed, empty, and open individualism? ([Quora Answers](https://www.hedweb.com/){: class="b"}, 2019)
+1. [Нужно ли страдать, чтобы быть счастливыми?](https://hedweb-ru.github.io/quora/is-it-necessary-for-humans-to-experience-negative-emotions.html) \| Is it necessary for humans to experience negative emotions, such as sadness, in order to feel happy or content with their lives? ([Quora Answers](https://www.hedweb.com/){: class="b"}, 2024)
+2. [О закрытом, пустом и открытом индивидуализме](https://hedweb-ru.github.io/quora/closed-empty-and-open-individualism.html) \| What does David Pearce think of closed, empty, and open individualism? ([Quora Answers](https://www.hedweb.com/){: class="b"}, 2019)
 3. [Философские взгляды в одном параграфе](https://hedweb-ru.github.io/quora/philosophical-positions-in-one-paragraph.html) \| What are your philosophical positions in one paragraph? ([Quora Answers](https://www.hedweb.com/){: class="b"}, 2018)
-4. [Чёрств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) (фрагмент из [переписок](https://www.hedweb.com/social-media/pre2014.html){: class="b"}, 2013)
-5. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://reducingsuffering.github.io/david-pearce-top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
-6. [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
-7. [Квантовая этика и страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
+4. [Чёрств ли негативный утилитаризм](https://reducingsuffering.github.io/david-pearce-2.html) ([Social Media](https://www.hedweb.com){: class="b"}, 2013)
+5. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://hedweb-ru.github.io/top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
+6. [Перепрограммирование хищников](https://hedweb-ru.github.io/reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
+7. [Квантовая этика и страдания в мультивселенной](https://hedweb-ru.github.io/quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
 8. [Гедонистический императив](https://hedweb-ru.github.io/hi/index.html) \| [The Hedonistic Imperative](www.hedweb.com/){: class="b"} (1994), редактура в процессе
 
 <a id="Manu_Herran"></a>
