@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}ru{% endif %}">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    <div class="wrap">
-      <div class="container content">
-        {{ content }}
-      </div>
-    </div>
-  </body>
+<body>
+<div class="wrap">
+<div class="container content">
+
+{{ content }}
+
+</div>
+</div>
+</body>
 </html>
