@@ -104,7 +104,7 @@ title: "Переводы"
 5. [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://hedweb-ru.github.io/top-five-reasons-transhumanism-can-eliminate-suffering.html) \| [Top Five Reasons Transhumanism Can Eliminate Suffering](https://www.hedweb.com/transhumanism/five-reasons.html){: class="b"} (2010)
 6. [Перепрограммирование хищников](https://hedweb-ru.github.io/reprogramming-predators.html) \| [Reprogramming Predators](https://www.hedweb.com/abolitionist-project/reprogramming-predators.html){: class="b"} (2009-2015)
 7. [Квантовая этика и страдания в мультивселенной](https://hedweb-ru.github.io/quantum-ethics-suffering-in-the-multiverse.html) \| [Quantum Ethics? Suffering in the Multiverse](https://www.hedweb.com/population-ethics/quantum-ethics.html){: class="b"} (2008-2015)
-8. [Гедонистический императив](https://hedweb-ru.github.io/hi/index.html) \| [The Hedonistic Imperative](www.hedweb.com/){: class="b"} (1994), редактура в процессе
+8. Редактура в процессе: [Гедонистический императив](https://hedweb-ru.github.io/hi/index.html) \| [The Hedonistic Imperative](www.hedweb.com/){: class="b"} (1994)
 
 <a id="Manu_Herran"></a>
 ## Ману Эрран \| Manu Herrán:
