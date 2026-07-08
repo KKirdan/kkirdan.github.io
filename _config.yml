@@ -1,7 +1,20 @@
 title:               Кирдан
+title_en:            Kirdan
 url:                 kkirdan.github.io
 baseurl:             ''
-permalink:           /blog/:title:output_ext
+defaults:
+  - scope:
+      path: "blog/_posts"
+      type: posts
+    values:
+      lang: ru
+      permalink: /blog/:title:output_ext
+  - scope:
+      path: "en/blog/_posts"
+      type: posts
+    values:
+      lang: en
+      permalink: /en/blog/:title:output_ext
 
 vk:                  https://vk.com/kirdan
 contact_vk:          https://vk.com/kirdan
