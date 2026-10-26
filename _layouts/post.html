@@ -11,6 +11,6 @@ layout: blog
  
 {{ content }}
 
-<hr>
+{% unless page.lang %}<hr>
 <span class="post-tags">{% include list-of-tags.html tags=page.tags %}</span>
-</div>
+</div>{% endunless %}
